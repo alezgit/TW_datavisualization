@@ -1,0 +1,475 @@
+"track_id","track_name","track_number","track_popularity","explicit","artist_name","artist_popularity","artist_followers","artist_genres","album_id","album_name","album_release_date","album_total_tracks","album_type","track_duration_min"
+"1zv3WFUbZ5vPxFq9I2jAU1","We Found Love","3","61","FALSE","Rihanna","90","68997177","pop, r&b","16ySsalaP2FiKVDlYCWnYh","Talk That Talk (Explicit)","2011-01-01","11","album","3.58"
+"3w8qTyOMX9vmm4aKYVl4uS","Mahrex of Isoko","4","21","TRUE","Mahrex","9","127","alté","0ui6M2D9ZHDIxuXruIQGra","Blackowl","2023-09-29","4","single","3.12"
+"3NO0uDaqtPzSSU9GAj39hC","Sleepless (feat. GoldFord)","1","48","TRUE","Restricted","60","157326","hard techno, hypertechno","3748XL91ovL1Tpni1BWAor","Sleepless (feat. GoldFord)","2023-07-21","1","single","2.29"
+"1fBl642IhJOE5U319Gy2Go","Animal","3","72","FALSE","Neon Trees","64","1284368","N/A","7xpjpdislqMXOCw5xsDt4g","Habits","2010-01-01","8","album","3.53"
+"78aURwMzynDMan7DfSWwsI","Loft Music","8","50","TRUE","The Weeknd","94","112995439","r&b pop, alternative r&b, hip hop, synthpop","2XGEyGU76kj55OdHWynX0S","Trilogy","2012-11-13","30","album","6.05"
+"5Y6nVaayzitvsD5F7nr3DV","West Coast","5","82","FALSE","Lana Del Rey","88","51798111","alternative pop, indie pop","1ORxRsK3MrSLvh7VQTF01F","Ultraviolence (Deluxe)","2014-01-01","14","album","4.27"
+"6IadkySzhPNWU0ZrXhVimN","In Ash","2","42","TRUE","Hurricane on Saturn","39","4952","N/A","7LCWMz5qhflYOFta2pkrBE","Φnx","2023-02-24","11","album","4.27"
+"19RybK6XDbAVpcdxSbZL1o","Apple","11","76","FALSE","Charli xcx","82","6322030","hyperpop, art pop","2lIZef4lzdvZkiiCzvPKj7","BRAT","2024-06-07","15","album","2.52"
+"3WWAvWDBQANpJeNbvVbjMg","Heartbeat","6","1","TRUE","Childish Gambino","78","14561716","N/A","32KdoFFhgjCLdU0DWL71tx","Camp","2011-11-15","13","album","4.49"
+"3S8F1vuqoL7pxHb395XJ7q","Getting Older (Time Is Ticking)","1","22","FALSE","J 2 5","7","34","N/A","4g77ee5w9A2mE2gd8pTQcH","Getting Older (Time Is Ticking)","2024-11-25","1","single","2.89"
+"5k27aU7U4U0NvV3vx2EXW0","A Lannister Always Pays His Debts","2","0","FALSE","Ramin Djawadi","65","718418","soundtrack","4BeqCe1wUbHgAQTZmLebed","Game Of Thrones (Music from the HBO® Series) Season 3","2013-06-04","19","album","2.84"
+"5G6fY8QYk5azqSRGI9FMpa","dandelion","17","50","FALSE","Ariana Grande","90","107401919","pop","6kXXIMyzRgQeai4A0DsXOn","eternal sunshine deluxe: brighter days ahead","2025-03-28","19","album","3.41"
+"5AnCLGg35ziFOloEnXK4uu","Adore You","1","77","FALSE","Miley Cyrus","81","26561582","country pop, rock, hip hop, experimental","3RDqXDc1bAETps54MSSOW0","Bangerz (Deluxe Version)","2013-10-04","16","album","4.64"
+"181yGUB8xEh4LfK8KhC4Wa","Siren sounds (bonus)","15","76","FALSE","Tate McRae","88","9256589","pop","6KaEpgeZQF6ZVVAmSoZUrb","So Close To What","2025-02-24","16","album","3.06"
+"4rsW3WCZBGwhHfJWuHRwyT","Home","2","1","FALSE","Phillip Phillips","60","1139139","folk pop","773GsAWk3z8mGgMDeR7n1A","The World From The Side Of The Moon (Deluxe)","2013-01-01","18","album","3.5"
+"0FA4wrjDJvJTTU8AepZTup","Watch This - ARIZONATEARS Pluggnb Remix","1","72","TRUE","Lil Uzi Vert","82","19255400","melodic rap","3VvPLpCZR5viLBFTbzm6E1","Watch This (ARIZONATEARS Pluggnb Remix)","2023-02-05","1","single","2.71"
+"1r3myKmjWoOqRip99CmSj1","Don't Wanna Go Home","1","63","FALSE","Jason Derulo","76","12460618","N/A","31tCg5RXhY5jpagfCPcQa2","Future History (Deluxe Edition)","2011-09-16","14","album","3.43"
+"7eZ7ODAt9cALYnWLO8F6Fd","D.D.","1","52","FALSE","The Weeknd","93","112957721","r&b pop, alternative r&b, hip hop, synthpop","5EbpxRwbbpCJUepbqVTZ1U","Trilogy","2012-11-13","30","album","4.59"
+"4bCPIiB3tV9oPW2NUXVeh2","Enemies","1","25","FALSE","Ericovich","41","11026","nightcore","5d5gdCeJbaJyBijHdsrZbL","Enemies","2022-09-16","1","single","2.19"
+"7fPSEiiNsZ5JybOoXLkaZN","My Mind","5","52","FALSE","Suki Waterhouse","68","1391888","N/A","2ccGlDnYg0D9qAZHDq55Vm","I Can't Let Go","2022-05-06","10","album","3.18"
+"2tTmW7RDtMQtBk7m2rYeSw","Quevedo: Bzrp Music Sessions, Vol. 52","1","80","FALSE","Bizarrap","76","18192021","argentine trap, trap latino, urbano latino","4PNqWiJAfjj32hVvlchV5u","Quevedo: Bzrp Music Sessions, Vol. 52","2022-07-06","1","single","3.31"
+"5ZoXZbzob3CSAxVxzRcTOb","I See - Sped Up","2","45","TRUE","Rumelis","48","8682","dark r&b","27UTqkjEGsy0JcjmV5udDo","I See","2024-12-19","3","single","2.3"
+"4tYFy8ALRjIZvnvSLw5lxN","Party","11","76","TRUE","Bad Bunny","95","102571645","reggaeton, trap latino, urbano latino, latin","3RQQmkQEvNCY4prGKE6oc5","Un Verano Sin Ti","2022-05-06","23","album","3.79"
+"6NFVMrNI3mHeFSAwdbAYfU","Luv Deluxe","7","46","FALSE","Cinnamon Chasers","43","47996","synthwave","4atwagTKLpazdKchxdJEnI","A Million Miles from Home","2011-01-01","12","album","4.55"
+"5AqiaZwhmC6dIbgWrD5SzV","Peso Pluma: Bzrp Music Sessions, Vol. 55","1","68","TRUE","Bizarrap","76","18188680","argentine trap, trap latino, urbano latino","5dKPhEYBhP8j85HcxQfaw6","Peso Pluma: Bzrp Music Sessions, Vol. 55","2023-06-01","1","single","3.13"
+"7rdHxPQimXkOcmUmsfGhxY","Trim","1","1","TRUE","YUNG ALPO","24","166","N/A","2oLtKEcuXiyWnsuHIUlNTF","Trim","2025-10-24","1","single","2.62"
+"3UDqYP3Sa9phBFAATXOixA","In The Rain","8","68","FALSE","Addison Rae","74","1364231","N/A","2ffVa2UhHUDwMHnr685zJ4","Addison","2025-06-06","12","album","3.56"
+"4TaY35s44Bf6OQnRK4R8Y5","West Coast","1","53","FALSE","The Neighbourhood","83","21598900","N/A","2RIzTjf0GcKm1I2FQV19zw","The Love Collection","2013-12-10","3","compilation","4.22"
+"7brQHA2CgQpcMBiOlfiXYb","Afraid","2","76","TRUE","The Neighbourhood","83","21591569","N/A","4xkM0BwLM9H2IUcbYzpcBI","I Love You.","2013-04-22","11","album","4.18"
+"5mLjj7Fm5LwzNp6WSwsJIw","Easy On Me","1","21","FALSE","A17N","27","893","latin house, hypertechno","0CcukrMFxh8zidJQHXF4uQ","Easy On Me","2024-05-17","1","single","2.41"
+"5cc9Zbfp9u10sfJeKZ3h16","3005","9","4","TRUE","Childish Gambino","78","14559779","N/A","62yjWIhnATHxPqGbgC9Lqr","Because the Internet","2013-12-10","19","album","3.9"
+"3iRoXGFrF8O0jTul6LAmus","Under Your Spell","2","77","FALSE","Snow Strippers","65","330171","electroclash, witch house","56hrhzHAOsm5C7kSXzF4kh","April Mixtape 3","2023-05-05","16","album","3.64"
+"3YOkRTqknv92aUyOXcTxVg","Can't Forget You","1","57","FALSE","LUM!X","63","224322","slap house, melbourne bounce","17p2hpEP5OkJnFZpbsL3wC","Can't Forget You","2024-06-21","1","single","2.6"
+"76ZM9zykOducwZYWRjYsll","DEAD WEIGHT","1","22","FALSE","Maya Kuriel","19","9683","N/A","4SH3mhj3YJ8C5LlGTE8Vx5","DEAD WEIGHT","2025-03-21","1","single","2.49"
+"5kDgJffgJ0lYHTSiaXFWNw","BABY I'M BACK","1","74","TRUE","The Kid LAROI","79","6593079","N/A","30H0cGghxhBJ93v4h28XEt","THE FIRST TIME (DELUXE VERSION)","2024-08-09","28","album","2.85"
+"1UlhrRvYzbHEyugEDspXUB","Clara Bow","16","57","FALSE","Taylor Swift","100","145489371","country, pop, indie, folk","1Mo4aZ8pdj6L1jx8zSwJnt","THE TORTURED POETS DEPARTMENT","2024-04-18","16","album","3.61"
+"1OOtq8tRnDM8kG2gqUPjAj","Beat It","5","75","FALSE","Michael Jackson","84","37431031","N/A","1C2h7mLntPSeVYciMRTF4a","Thriller 25 Super Deluxe Edition","2008-02-08","30","album","4.3"
+"02Z1u6mX0puSryZFJpqV0G","Not Like The Movies","12","35","FALSE","Katy Perry","83","38385499","pop","06SY6Ke6mXzZHhURLVU57R","Teenage Dream","2010-08-24","17","album","4.02"
+"0FolPJnYMo71Z7qasTuoJT","Given Up On Me","11","67","FALSE","The Weeknd","94","112995439","r&b pop, alternative r&b, hip hop, synthpop","3OxfaVgvTxUTy7276t7SPU","Hurry Up Tomorrow","2025-01-31","22","album","5.91"
+"2U7svZUGvR4tfKdyxv9mXu","would've been you","1","79","FALSE","sombr","85","2789144","N/A","1a43UOca3qYS1ZcS0b9wSk","would've been you","2023-11-17","1","single","3.05"
+"7clEXtT4uQj4ZUK89eR5Dr","Boys","1","37","FALSE","Sky Ferreira","54","640612","N/A","0DucmDrdJM4evPXMbFJXBS","Night Time, My Time","2013-01-01","14","album","4.66"
+"78O33U6jbQtNiNfbkZudpd","She Will","6","78","TRUE","Lil Wayne","86","17938214","rap, hip hop","2YL3ddwHuiBGumvzcGHyjT","Tha Carter IV (Explicit Version)","2011-01-01","15","album","5.09"
+" rock,0BHa0ePkvGAVKymB4FU58m,Infest,2000-04-25,13,album,3.33
+3fYWwJaPHiNVHt5ZgklGS9,Troubled Waters,3,32,FALSE,Cat Power,53,793066,slowcore"," singer-songwriter,4dZBOO1PjjmtPA974xHMND,The Covers Record,2000-03-21,12,album,3.49
+62bOmKYxYg7dhrC6gH9vFn,Bye Bye Bye,1,79,FALSE,*NSYNC,69,3088613,N/A,20RMokVwJ2wjQ0s8FOdOFC,No Strings Attached,2000-03-21,12,album,3.34
+0h17TpfCKbbib1J37Qgj7r,Alone - Remastered 2000,6,58,FALSE,Heart,67,3005585,classic rock"," aor"," rock,5bOhnWhieBJGivUovmtob5,Greatest Hits 1985-1995,2000-01-01,18,compilation,3.65
+0gzqZ9d1jIKo9psEIthwXe,Beautiful Day,1,73,FALSE,U2,75,13593848,rock,7a5U0GPoAvT3gvEY66FRuN,All That You Can't Leave Behind,2000-01-01,12,album,4.14
+00suglGfe7WNFpS1YyCTt6,Gortoz A Ran - From Black Hawk Down"",1,49,FALSE,Denez Prigent,39,30106,celtic,79hZbZLkqwAf2FYwB6b7Vd,Irvi,2000-01-01,11,album,5.86
+1EsSm8qaR9Wtm1OgZXKi2n,Ho,11,49,TRUE,Ludacris,76,3428625,southern hip hop,2kT80DHqRtHQzDhQ2RCoIV,Back For The First Time,2000-01-01,16,album,2.84
+3vNFsxBbA4dPkymPF5Jm1b,This Mess We're In,7,60,FALSE,PJ Harvey,57,1200822,art pop"," singer-songwriter"," alternative rock,0hBWhJEmVyNPG2Jq71CJXz,Stories From The City"," Stories From The Sea,2000-01-01,12,album,3.93
+4pbyDPjFgfPqFTcIMC8xpK,Rock DJ,3,70,FALSE,Robbie Williams,71,3314135,N/A,11DmTQm7WPeSXih1FPuaXL,Sing When You're Winning,2000-01-01,13,album,4.3
+4YsNfGnCcN4pmg1dJdgno8,blue,1,0,FALSE,dreamy,10,2778,N/A,1uDx6cL35xXqtUxokRRMwZ,blue,1999-12-31,1,single,2.81
+0EqtsCvcDjEz6svFsaV5HN,Save Me,9,57,FALSE,Aimee Mann,48,265205,N/A,6jbjx0LGKl11H6UtrgS2nV,Magnolia (Music from the Motion Picture),1999-12-07,13,album,4.57
+2p9sprAX27D6U5cuSE9NsM,When I B On Tha Mic,3,61,TRUE,Rakim,55,1017891,east coast hip hop"," old school hip hop"," hip hop,3mvWfqa4cceoGyA7qECPWH,The Master,1999-11-30,17,album,3.71
+503OTo2dSqe7qk76rgsbep,Still D.R.E.,4,82,TRUE,Dr. Dre,78,15098281,old school hip hop"," g-funk"," gangster rap"," west coast hip hop"," hip hop"," rap,7q2B4M5EiBkqrlsNW8lB7N,2001,1999-11-16,23,album,4.5
+7iXF2W9vKmDoGAhlHdpyIa,Forgot About Dre,10,78,TRUE,Dr. Dre,78,15085473,old school hip hop"," g-funk"
+"0Njbfdqov90zIfAXZl7hIf","HUSH","3","54","FALSE","Ari Abdul","66","754907","dark r&b","6zvckLWDs3GtRAll4b0Cvl","Fallen Angel","2022-10-07","6","single","3.18"
+"7gJtmLyPTwKzhGzMBXtuXH","Red","2","57","FALSE","Taylor Swift","100","145489371","country, pop, indie, folk","1KVKqWeRuXsJDLTW0VuD29","Red (Deluxe Edition)","2012-10-22","22","album","3.71"
+"6h7BZEKFDFk8YMjgI86rjo","Lose Control","1","3","FALSE","Besomage","50","12548","N/A","2UPi1EJNxmE2pcMuxzDCDi","Lose Control","2024-07-11","1","single","2.42"
+"1AdYZ6X00nXmO613Y7GJOl","I Miss You","3","69","FALSE","blink-182","76","9290142","pop punk, punk, rock, skate punk, emo","4hBTxv4QRPePXCFcEI7Vjp","blink-182","2003-11-01","16","album","3.78"
+"0dErnwCOJio6gkYfzPUfSa","A Celtic Lore","2","39","FALSE","Adrian Von Ziegler","47","171819","celtic, medieval","4bc12QynMKKIcmnu4Q2sJr","The Celtic Collection","2012-12-12","23","album","3.33"
+"4h8VwCb1MTGoLKueQ1WgbD","Wake Me Up","1","9","FALSE","Avicii","79","23434999","edm","1s9tU91VJt4sU5owi29GD3","True","2013-09-13","12","album","4.12"
+"6bTbMMEShyGyrcuIwtBlpA","Living Hell","3","62","FALSE","Bella Poarch","60","1409523","N/A","4W8QhTVggLgkJLdsXLLnnz","Dolls EP","2022-08-12","6","single","2.9"
+"1XTY6rA7XQosc0ynkkE9kN","Black Friday","1","72","FALSE","Tom Odell","76","4309419","N/A","0BdmqjXLz0L6gF78ldUYHp","Black Friday","2023-09-22","1","single","3.69"
+"06JvOZ39sK8D8SqiqfaxDU","True Love","1","71","FALSE","Kanye West","89","31052119","rap","1YA0gAfV91LkDq1DODSCbc","True Love","2022-05-27","1","single","2.47"
+"7DpUoxGSdlDHfqCYj0otzU","BITTERSUITE","9","76","FALSE","Billie Eilish","90","118728633","alternative pop, electropop, dark pop","7aJuG4TFXa2hmE4z1yxc3n","HIT ME HARD AND SOFT","2024-05-17","10","album","4.97"
+"1orWJSHmbn7JttLxOYr1R5","The Fame","7","45","FALSE","Lady Gaga","89","42275793","art pop, pop","6rePArBMb5nLWEaY9aQqL4","The Fame Monster (Deluxe Edition)","2009-11-05","23","album","3.7"
+"5oQNTH2WkhdsCEETc5XriH","CASTLE OF GLASS","10","44","FALSE","Linkin Park","88","31796892","nu metal, rap metal, rock, alternative metal","1X472EvsSqH09RyrqbtyXU","Papercuts","2024-04-12","20","album","3.42"
+"4UGvqm3e7UElrrriPtnhwz","Habits","1","0","FALSE","Genevieve Stokes","49","135787","N/A","4KKuhABzFkGE9UAucodfUo","Habits","2022-08-12","1","single","2.27"
+"10xV5l9nhLvFpR8mqzs0bL","Numb","1","70","FALSE","Marshmello","80","34476607","edm","3SBeYxkc3Ce7lanK0f3epk","Numb","2022-06-10","1","single","2.59"
+"09LrGvT9KsACH66RHYMDyR","Don’t Smile","12","77","FALSE","Sabrina Carpenter","91","26559943","pop","3iPSVi54hsacKKl1xIR2eH","Short n' Sweet","2024-08-23","12","album","3.43"
+"6RQ5IwG7uADz9LDWliJGjU","Special","16","67","TRUE","SZA","87","33043825","r&b","07w0rG5TETcyihsEIZR3qG","SOS","2022-12-09","23","album","2.64"
+"3fzDcbJZC7HoTHeH2Z1R4A","The Best Day","6","40","FALSE","George Strait","72","5161216","country, classic country, traditional country, honky tonk","2syxP3j7sO6A5NiRPt37H3","Best Of (Deluxe Edition)","2011-01-01","22","compilation","3.31"
+"5eFxwmqKrHpSQDOEIFYlgY","Animal I Have Become","3","76","FALSE","Three Days Grace","77","7297885","post-grunge, rock","4ohPMPeZukCChC6xNJpeYx","One-X","2006-06-13","13","album","3.85"
+"2jrMjstPcrgWx9ZUIV8qmW","I Kill Spiders","1","35","FALSE","Libby Ember","19","181","N/A","3rwRrvZIMD9kyc5y1qUbP8","I Kill Spiders","2025-09-19","4","single","3.69"
+"5Jh1i0no3vJ9u4deXkb4aV","so american","17","73","TRUE","Olivia Rodrigo","85","49083617","pop rock, alternative pop, pop punk","1D06fz3cuob62ysTS8k6gu","GUTS (spilled)","2024-03-22","17","album","2.82"
+" northern soul"," quiet storm,67Eq3nfl1km9s5ig76Cc8B,United,1967-08-29,12,album,2.52
+0AIgBzLYBfU1DIFgPb3EJh,A Man a Horse a Gun - The Stranger Returns - Shoot First Laugh Last - Titles,1,29,FALSE,Stelvio Cipriani,48,42604,N/A,5Lf4Xae6WCQrqNlBbjUpL0,A Man a Horse a Gun: The Stranger Returns (Original Motion Picture Soundtrack),1967-06-30,5,single,3.75
+6PrKZUXJPmBiobMN44yR8Y,The Ecstasy Of Gold - 2004 Remaster,20,62,FALSE,Ennio Morricone,65,1324293,soundtrack,1oLT2HO5MVNS8U4kEuBvdJ,The Good"," The Bad And The Ugly [Original Motion Picture Soundtrack / (Remastered & Expanded)],1967-06-30,21,album,3.38
+1JSIWsJfxOji0FrxFcxdCK,The Good"," The Bad And The Ugly - 2004 Remaster,1,60,FALSE,Ennio Morricone,65,1324293,soundtrack,1oLT2HO5MVNS8U4kEuBvdJ,The Good"," The Bad And The Ugly [Original Motion Picture Soundtrack / (Remastered & Expanded)],1967-06-30,21,album,2.7
+6tGtkJtXZytZhugipYJTCj,The Trio - 2004 Remaster,21,44,FALSE,Ennio Morricone,65,1324293,soundtrack,1oLT2HO5MVNS8U4kEuBvdJ,The Good"," The Bad And The Ugly [Original Motion Picture Soundtrack / (Remastered & Expanded)],1967-06-30,21,album,5.04
+1S1JlOrGDpkbVhWCsOjUIh,Fuga A Cavallo,4,39,FALSE,Ennio Morricone,65,1324548,soundtrack,1oLT2HO5MVNS8U4kEuBvdJ,The Good"," The Bad And The Ugly [Original Motion Picture Soundtrack / (Remastered & Expanded)],1967-06-30,21,album,1.11
+711sUHL5feGZQ4HZai697P,Inseguimento,7,41,FALSE,Ennio Morricone,65,1324293,soundtrack,1oLT2HO5MVNS8U4kEuBvdJ,The Good"," The Bad And The Ugly [Original Motion Picture Soundtrack / (Remastered & Expanded)],1967-06-30,21,album,2.41
+4vpeKl0vMGdAXpZiQB2Dtd,White Rabbit,10,68,FALSE,Jefferson Airplane,56,1741839,psychedelic rock"," acid rock,6lPb7Eoon6QPbscWbMsk6a,Surrealistic Pillow,1967-06-30,17,album,2.51
+0wJoRiX5K5BxlqZTolB2LD,Purple Haze,1,67,FALSE,Jimi Hendrix,66,7367979,psychedelic rock"," classic rock"," acid rock"," blues rock,7rSZXXHHvIhF4yUFdaOCy9,Are You Experienced,1967-05-12,17,album,2.84
+05c5EePexW3UVTUTsBPdTq,Fast Women"," Slow Horses and Wine,10,8,FALSE,Charlie Walker,29,10863,honky tonk"," classic country"," traditional country,1Ix2HmX5ZF1PLYN9jJN1wj,Don't Squeeze My Sharmon,1967-01-01,10,album,2.43
+6OiXHMVgq95x3GDIe7MMA0,The Dolphins,1,43,FALSE,Fred Neil,37,40485,singer-songwriter"
+"0MrTtNjPbu7fMVPeqrlTII","tweaker - Acoustic","1","0","FALSE","raysoo","10","355","N/A","5sONJDT1XjwRxtPgfYK0yO","tweaker (Acoustic)","2025-02-10","1","single","2.12"
+"7C8RxsVy6MsOef3B5lk7TI","Looking For You","2","49","TRUE","Lil Peep","82","15684530","emo rap, cloud rap","5XlxyRqG5mr7eG6My0QkVT","HATE ME","2024-03-08","3","single","3.3"
+"2IRK3qdY6BzbKxKr8eBk8o","By The Grace Of God","13","40","FALSE","Katy Perry","83","38393243","pop","5MQBzs5YlZlE28mD9yUItn","PRISM (Deluxe)","2013-10-18","16","album","4.45"
+"6vyiGZsNWMMc3WTNaMeJ9F","Means I care","12","64","TRUE","Tate McRae","88","9241516","pop","6KaEpgeZQF6ZVVAmSoZUrb","So Close To What","2025-02-24","16","album","2.93"
+"3WSOUb3U7tqURbBSgZTrZX","Casual","5","80","TRUE","Chappell Roan","82","7310428","N/A","0EiI8ylL0FmWWpgHVTsZjZ","The Rise and Fall of a Midwest Princess","2023-09-22","14","album","3.87"
+"1jWMfRFjBpuuI4cXS0UXvC","50 50","8","33","FALSE","Unlike Pluto","57","398642","N/A","4EeqIKMCBghfKdAXVgsQBt","Kiss Collapse","2025-08-22","17","album","3"
+"2cyLCuYnTA0zcdxYW9O3Yk","Genesis","1","60","FALSE","Grimes","67","2625044","art pop","3wPVo6bp9caXRV4d9wDL9a","Genesis","2012-02-20","1","single","4.25"
+" latin,6bUxh58rYTL67FS8dyTKMN,El Dorado,2017-05-26,13,album,3.27
+6MFVCPU3QN3YqMjJz4mtFe,When a Woman,4,40,FALSE,Shakira,85,39777995,latin pop,6bUxh58rYTL67FS8dyTKMN,El Dorado,2017-05-26,13,album,3.3
+0sXvAOmXgjR2QUqLK1MltU,La Bicicleta,10,64,FALSE,Carlos Vives,72,6795970,colombian pop"," vallenato"," latin"," latin pop,6bUxh58rYTL67FS8dyTKMN,El Dorado,2017-05-26,13,album,3.79
+4qknM1pQz53QOyfDVTjcM9,Me Enamoré,1,71,FALSE,Shakira,85,39798156,latin pop,6bUxh58rYTL67FS8dyTKMN,El Dorado,2017-05-26,13,album,3.78
+5dUQ00lCQ8IPMs149DIdhf,My Name Is Barbossa,16,52,FALSE,Geoff Zanelli,45,20671,N/A,4AODHfxPGTDLHyAyMWQi52,Pirates of the Caribbean: Dead Men Tell No Tales (Original Motion Picture Soundtrack),2017-05-26,18,album,5.55
+1D8bmUIhLHEO4KMS2SHwUx,Nada,2,49,FALSE,Shakira,85,39788275,latin pop,6bUxh58rYTL67FS8dyTKMN,El Dorado,2017-05-26,13,album,3.15
+70lnL3QaSOIIyMa2X9aVRL,Perro Fiel (feat. Nicky Jam),6,72,FALSE,Shakira,85,39777995,latin pop,6bUxh58rYTL67FS8dyTKMN,El Dorado,2017-05-26,13,album,3.25
+5i25MerPtwjolZFZ2hIEai,The Dying Gull,8,0,FALSE,Geoff Zanelli,44,20665,N/A,4U89gPlDkQJAIyUPbJK2wa,Pirates of the Caribbean: Dead Men Tell No Tales (Original Motion Picture Soundtrack),2017-05-26,18,album,1.02
+6jA8HL9i4QGzsj6fjoxp8Y,There for You,1,63,FALSE,Martin Garrix,74,15121577,edm"," progressive house"," electronica,0OK35duHpTPnvqya2d4pnn,There for You,2017-05-26,1,single,3.69
+5VD3oQilL00HfIEW6ICSQq,Toneladas,13,43,FALSE,Shakira,85,39788275,latin pop,6bUxh58rYTL67FS8dyTKMN,El Dorado,2017-05-26,13,album,3.19
+7GncL3nyKUjsEm8Z5gvTpW,Trap (feat. Maluma),7,53,FALSE,Shakira,85,39788275,latin pop,6bUxh58rYTL67FS8dyTKMN,El Dorado,2017-05-26,13,album,3.33
+0kM7Geaz7x7r17CPONjpOU,What We Said (feat. MAGIC!) - Comme moi English Version,12,38,FALSE,Shakira,85,39777995,latin pop,6bUxh58rYTL67FS8dyTKMN,El Dorado,2017-05-26,13,album,2.99
+15uwq9nwVelsisi4bAockR,Dreamtime Physics,7,13,FALSE,Entheogenic,27,63294,downtempo"," ambient"," psytrance,5VyopiIbSec2vm5SIuxbtV,Dreamtime Physics,2017-05-23,9,album,8.34
+2169IKAivSUUFGcedGASXc,16 Shots,1,61,TRUE,Stefflon Don,63,1206870,dancehall,7fhtLker4wksK42E4hyhxK,16 Shots,2017-05-22,1,single,3.74
+0Yy8Jn1mhqyQcAKFhxBNlc,Pismo Ceniza,5,0,FALSE,Yeahman,49,53987,N/A,65IEPdkn7qzLRFcQb4tZ24,Transborda,2017-05-22,5,single,4.09
+3NgCzSW98SsqBdpYcnm4kv,I Have Questions,1,53,FALSE,Camila Cabello,78,35582423,N/A,5vZ3Yotbw61UDCcyIfMcrr,I Have Questions,2017-05-21,1,single,3.69
+650OeHTLxZAQmb4aEbGmaA,Good Goodbye (feat. Pusha T and Stormzy),2,59,FALSE,Linkin Park,88,31819030,nu metal"," rap metal"," rock"," alternative metal,5Eevxp2BCbWq25ZdiXRwYd,One More Light,2017-05-19,10,album,3.52
+2ap1x3VLFXzeVRDl14PYsM,Had Some Drinks,1,0,TRUE,Two Feet,67,2177376,N/A,44kEIUk7bv5Wu6xrs7QJvm,Had Some Drinks,2017-05-19,1,single,2.34
+1wjzFQodRWrPcQ0AnYnvQ9,I Like Me Better,1,2,FALSE,Lauv,73,6815446,N/A,7l6fTSFvlumnPFpOSrbnDV,I Like Me Better,2017-05-19,1,single,3.29
+7nAfXgeHfDO50upcOjJOaq,Talking to Myself,3,60,FALSE,Linkin Park,88,31785695,nu metal"," rap metal"," rock"," alternative metal,5Eevxp2BCbWq25ZdiXRwYd,One More Light,2017-05-19,10,album,3.85
+6c0I7CfL9ziGZN8yYkLppP,Sharp Edges,10,58,FALSE,Linkin Park,88,31806929,nu metal"," rap metal"
+" You Know - Duet,1,52,FALSE,Olivia Rodrigo,84,49050008,pop rock"," alternative pop"," pop punk,1fgrILRm1bhM6oi3eK0eAs,I Think I Kinda"," You Know (From High School Musical: The Musical: The Series),2019-11-08,2,single,2.87
+5DqdesEfbRyOlSS3Tf6c29,It's You,1,75,FALSE,Ali Gatie,64,2174956,N/A,63Kr9mdWxT7mB2AKgf4rCa,YOU,2019-11-08,9,album,3.54
+7f5trao56t7sB7f14QDTmp,Juicy,12,68,TRUE,Doja Cat,86,34742256,N/A,1MmVkhiwTH0BkNOU3nw5d3,Hot Pink,2019-11-07,12,album,3.38
+7k4t7uLgtOxPwTpFmtJNTY,Tusa,1,73,TRUE,KAROL G,87,60395783,reggaeton"," latin"," urbano latino,7mKevNHhVnZER3BLgI8O4F,Tusa,2019-11-07,1,single,3.34
+1TMWcbxL5YF8rKsFHv5hAP,Rules,3,70,TRUE,Doja Cat,86,34748949,N/A,1MmVkhiwTH0BkNOU3nw5d3,Hot Pink,2019-11-07,12,album,3.11
+3Dv1eDb0MEgF93GpLXlucZ,Say So,5,77,TRUE,Doja Cat,86,34748949,N/A,1MmVkhiwTH0BkNOU3nw5d3,Hot Pink,2019-11-07,12,album,3.96
+60ynsPSSKe6O3sfwRnIBRf,Streets,9,83,TRUE,Doja Cat,86,34742256,N/A,1MmVkhiwTH0BkNOU3nw5d3,Hot Pink,2019-11-07,12,album,3.78
+2g0Bmi3kYEntusDP6xlAGZ,striptease,1,0,TRUE,carwash,44,99448,N/A,6NhhRbU9p26mbn5byjZ34h,striptease,2019-11-05,1,single,2.67
+4g2WiijzSKzH8PApKDbadN,Touch,5,66,FALSE,Sleeping At Last,66,1555597,N/A,4mVqE0sAXMG9DpfWxxLhsh,Atlas: II,2019-11-01,25,album,4.27
+5YUyW9opqNsMSEzzecZih1,X,14,75,FALSE,Nicky Jam,81,20568367,reggaeton"," latin,1CYQlkKE5Q0khU6eMwVAVt,Intimo,2019-11-01,15,album,2.88
+6zegtH6XXd2PDPLvy1Y0n2,Don’t Call Me Angel (Charlie’s Angels) (with Miley Cyrus & Lana Del Rey),3,66,FALSE,Ariana Grande,90,107401919,pop,4NBuascXb3uK0mFUYuJ63f,Charlie's Angels (Original Motion Picture Soundtrack),2019-11-01,11,compilation,3.16
+7Hhq3Ejf01wyOMjuKRrRR7,Antiphon,10,42,FALSE,Nicholas Britell,61,176006,N/A,1JwpzZlvXcne1s9SNXhiEW,The King (Original Score from the Netflix Film),2019-11-01,15,album,2.27
+6WrI0LAC5M1Rw2MnX2ZvEg,Don't Start Now,1,72,FALSE,Dua Lipa,85,46886554,pop,0ix3XtPV1LwmZADsprKxcp,Don't Start Now,2019-10-31,1,single,3.05
+1mo6pWcIXljy3y1Kju5JWG,Moving On,1,47,TRUE,Lil Peep,82,15695162,emo rap"," cloud rap,2MjV1lZHkrNuPiyOOwJBTf,GOTH ANGEL SINNER,2019-10-31,3,single,3.39
+0ecC8p17cDNlxHXkuYqeR6,Surrender,1,67,FALSE,Natalie Taylor,54,211557,N/A,5vplYu9dji5uOQdLutFfnf,Surrender,2019-10-29,1,single,3.05
+3p4hRhMcb6ch8OLtATMaLw,Cry,7,61,FALSE,Cigarettes After Sex,84,17373704,dream pop,4uQ5kFmXQdCxz3WvM4UUzy,Cry,2019-10-25,9,album,4.27
+2QpGZOhTCHHiKmpSO9FW4h,Follow God,3,71,FALSE,Kanye West,89,31045858,rap,0FgZKfoU2Br5sHOfvZKTI9,JESUS IS KING,2019-10-25,11,album,1.74
+1HfMVBKM75vxSfsQ5VefZ5,Lose You To Love Me,1,26,FALSE,Selena Gomez,81,53267200,N/A,3tBkjgxDqAwss76O1YHsSY,Lose You To Love Me,2019-10-23,1,single,3.44
+2fmyrECK6bdfoGven0UMZx,Naked,16,71,FALSE,James Arthur,79,20854863,soft pop,0cm9LOQUBK3JUgyoRj238z,YOU,2019-10-18,17,album,3.89
+395KzBy0bkb57dEvg6cfzJ,Falling Like The Stars,14,71,FALSE,James Arthur,79,20852039,soft pop,0cm9LOQUBK3JUgyoRj238z,YOU,2019-10-18,17,album,3.52
+43rHcWvKMlLGWMmJFjCk7I,i don't think i love you anymore,1,42,FALSE,Alaina Castillo,46,173084,N/A,40o9ndikNL2d6j4w9hJP01,i don't think i love you anymore,2019-10-18,1,single,3.82
+0dkvbYmXYEPK7gGMdytmfI,sex money feelings die - slowed version,1,62,TRUE,Lykke Li,67,1948451,N/A,7bL1fTsGeOyxv29BNVtMb1,sex money feelings die (slowed version),2019-10-18,1,single,2.81
+62vDrkBEyJYEOFj1ScBqM7,Sin Pijama,15,66,FALSE,Becky G,74,16646605,reggaeton"," latin,13MHW8hoLFjX7SaVEVmj3X,MALA SANTA,2019-10-18,16,album,3.16
+5B6Kjha6RRIMWGN7zGsAaT,So Hot You're Hurting My Feelings,12,62,FALSE,Caroline Polachek,67,650534,art pop,4ClyeVlAKJJViIyfVW0yQD,Pang,2019-10-18,14,album,3.06
+0otRX6Z89qKkHkQ9OqJpKt,Car's Outside,5,83,FALSE,James Arthur,79,20848055,soft pop,0cm9LOQUBK3JUgyoRj238z,YOU,2019-10-18,17,album,4.13
+2XU0oxnq2qxCpomAAuJY8K,Dance Monkey,2,73,FALSE,Tones And I,69,3006445,N/A,0UywfDKYlyiu1b38DRrzYD,Dance Monkey (Stripped Back) / Dance Monkey,2019-10-17,2,single,3.49
+2kJwzbxV2ppxnQoYw4GLBZ,If the World Was Ending (feat. Julia Michaels),1,73,FALSE,JP Saxe,61,627551,N/A,7BrlhEO8dHiNmU8A1Ep9RZ,If the World Was Ending (feat. Julia Michaels),2019-10-17,1,single,3.47
+5nCthAh3jt4xKuLJAifAaR,Harleys In Hawaii,1,73,FALSE,Katy Perry,83,38385499,pop,30UjBkRwwBeCdspCGPBB8V,Harleys In Hawaii,2019-10-16,1,single,3.09
+1SROgqdmfCbOmJKehC7gNX,Irelia"," the Blade Dancer (From League of Legends: Season 8),20,23,FALSE,League of Legends,76,2099978,N/A,4KU0DROuCgQhGABoWvuH6E,The Music of League of Legends: Season 8 (Original Game Soundtrack),2019-10-14,39,album,4.03
+6cy3ki60hLwimwIje7tALf,RITMO (Bad Boys For Life),1,68,TRUE,Black Eyed Peas,81,9556340,N/A,6EobpC5SDFy5DF50dWNVGF,RITMO (Bad Boys For Life),2019-10-12,1,single,3.69
+1hnIpQ31ko7CPNhOXcFrsU,Butcher's Bridge - Late Game (From League of Legends: Season 5),5,17,FALSE,League of Legends,76,2100243,N/A,0AaYIwH5G6w82B8iKOWCCb,The Music of League of Legends: Season 5 (Original Game Soundtrack),2019-10-11,25,album,4.82
+6klLvorLoo1sxvZcjJIY8I,Make No Sense,6,80,TRUE,YoungBoy Never Broke Again,84,14936207,N/A,1nzUj7VkiaytMmf2KrhK2L,AI YoungBoy 2,2019-10-11,18,album,2.47
+696DnlkuDOXcMAnKlTgXXK,ROXANNE,1,74,TRUE,Arizona Zervas,59,817341,N/A,6HJDrXs0hpebaRFKA1sF90,ROXANNE,2019-10-10,1,single,2.72
+24Yi9hE78yPEbZ4kxyoXAI,Roses - Imanbek Remix,1,74,TRUE,SAINt JHN,65,1153696,N/A,3GqSdhWjmMypMwPLtzoFYs,Roses (Imanbek Remix),2019-10-09,1,single,2.94
+4tViDtaHuSLnh7HVJTrKhs,Power Over Me,3,65,FALSE,Dermot Kennedy,68,1668880,N/A,7jGNAMzrW5HMXdxl9XyBMG,Without Fear,2019-10-04,13,album,3.44
+2f0pn9DkEJwAzXApnFh5cr,Someone To You,3,75,FALSE,BANNERS,62,732382,N/A,7jPoliCU7TRA13Wro32AOD,Where The Shadow Ends,2019-10-04,12,album,3.66
+6N22FZs2ZhPBYi3b9XPajV,Still Don't Know My Name,12,72,FALSE,Labrinth,73,3634221,N/A,788r22Bhr3IHLTNPy8pZea,Euphoria (Original Score from the HBO Series),2019-10-04,26,album,2.55
+4pfhgOylRLcBll5JjUsJZj,Let's Fall in Love for the Night,6,66,TRUE,FINNEAS,69,2356803,N/A,2b7DunZFOVCs0QgiTI1FJW,Blood Harmony,2019-10-04,7,album,3.17
+6PCSrc5dBKYHSQ3SutCqgw,McKay & Cassie,22,45,FALSE,Labrinth,73,3634221,N/A,788r22Bhr3IHLTNPy8pZea,Euphoria (Original Score from the HBO Series),2019-10-04,26,album,1.54
+4iddJAOsc6U0hJ3krSJAKn,Nate Growing Up,6,55,FALSE,Labrinth,73,3634221,N/A,788r22Bhr3IHLTNPy8pZea,Euphoria (Original Score from the HBO Series),2019-10-04,26,album,2.56
+4Ta3PhWmY50ZLU1uhKFKPE,Outnumbered,9,64,FALSE,Dermot Kennedy,69,1668880,N/A,7jGNAMzrW5HMXdxl9XyBMG,Without Fear,2019-10-04,13,album,4.09
+7vxLj7MREliG5i5vSnqSVr,Body,2,73,TRUE,Summer Walker,76,8011254,r&b,1qgJNWnPIeK9rx7hF8JCPK,Over It,2019-10-04,18,album,3.23
+2t16D9V5FmmRAJjsSpwvZf,When I R.I.P.,24,64,TRUE,Labrinth,73,3634221,N/A,788r22Bhr3IHLTNPy8pZea,Euphoria (Original Score from the HBO Series),2019-10-04,26,album,2.9
+096eU6V7NOWbfgIz7r153d,WTF Are We Talking For,17,50,TRUE,Labrinth,73,3635756,N/A,788r22Bhr3IHLTNPy8pZea,Euphoria (Original Score from the HBO Series),2019-10-04,26,album,2.85
+3eekarcy7kvN4yt5ZFzltW,HIGHEST IN THE ROOM,1,83,TRUE,Travis Scott,89,41131037,rap,2uDTi1PlpSpvAv7IRAoAEU,HIGHEST IN THE ROOM,2019-10-04,1,single,2.92
+5IgjP7X4th6nMNDh4akUHb,Under The Influence,3,83,TRUE,Chris Brown,87,28305692,r&b,3okhA6w5uau6ZNhnVpwVww,Indigo (Extended),2019-10-04,42,album,3.07
+6potEImiklXkwD9qFzpu15,Forever,4,67,FALSE,Labrinth,73,3635017,N/A,788r22Bhr3IHLTNPy8pZea,Euphoria (Original Score from the HBO Series),2019-10-04,26,album,3.37
+6EtKlIQmGPB9SX8UjDJG5s,Formula,2,75,FALSE,Labrinth,73,3634221,N/A,788r22Bhr3IHLTNPy8pZea,Euphoria (Original Score from the HBO Series),2019-10-04,26,album,1.53
+0Pa8sgK7rrFAOLoU10eC13,Gangster,23,46,FALSE,Labrinth,73,3635017,N/A,788r22Bhr3IHLTNPy8pZea,Euphoria (Original Score from the HBO Series),2019-10-04,26,album,2.51
+2S2ASICVK0L1LtjaysKsel,Defeated Clown,2,44,FALSE,Hildur Guðnadóttir,46,152981,drone"," neoclassical,16bF6lLLeVcBNgYNreGjYZ,Joker (Original Motion Picture Soundtrack),2019-10-02,17,album,2.65
+4WiqPbWvLbv317E8fB4SJC,Bathroom Dance,13,51,FALSE,Hildur Guðnadóttir,46,153065,drone"," neoclassical,16bF6lLLeVcBNgYNreGjYZ,Joker (Original Motion Picture Soundtrack),2019-10-02,17,album,2.13
+40RaUosMp8ROAFVeqrKZGw,Penny Taken to the Hospital,11,29,FALSE,Hildur Guðnadóttir,46,152941,drone"," neoclassical,16bF6lLLeVcBNgYNreGjYZ,Joker (Original Motion Picture Soundtrack),2019-10-02,17,album,1.82
+5HaKAODFS4Md49bVyYSp1y,Meeting Bruce Wayne,6,36,FALSE,Hildur Guðnadóttir,46,152941,drone"," neoclassical,16bF6lLLeVcBNgYNreGjYZ,Joker (Original Motion Picture Soundtrack),2019-10-02,17,album,4.59
+3MTk8zTFCHgMei64ycr6GH,There Will Be Blood,2,0,FALSE,Kim Petras,70,1192996,N/A,1DHYrQEevTTen4mqPgaxfH,TURN OFF THE LIGHT,2019-10-01,17,album,3.29
+2kQ9udZ0v3H8PFSVmbY1Kq,Darling,3,64,TRUE,D-Block Europe,72,1790426,grime"," uk drill,4dnKBBeSoiEc39sCqItmWk,PTSD,2019-09-27,28,album,2.38
+7cyeGclH71MayOuQ7qtLFl,BIG,3,61,TRUE,Young M.A,61,1620367,N/A,1F1JJHhqMo5DETJkesqGpG,Herstory in the Making,2019-09-27,21,album,3.76
+6Ozh9Ok6h4Oi1wUSLtBseN,BOP,3,73,TRUE,DaBaby,77,12954295,N/A,1NsTSXjVNE7XmZ8PmyW0wl,KIRK,2019-09-27,13,album,2.66
+72geHhNU5UA2hU1QgUzXdE,Bury My Bones,6,8,FALSE,Whiskey Myers,68,1144333,red dirt"
+"20I6sIOMTCkB6w7ryavxtO","Call Me Maybe","3","81","FALSE","Carly Rae Jepsen","70","5139846","N/A","6SSSF9Y6MiPdQoxqBptrR2","Kiss","2012-01-01","17","album","3.22"
+"6uvh0In7u1Xn4HgxOfAn8O","Matilda","7","77","FALSE","Harry Styles","80","34130771","pop rock, soft rock, synthpop","5r36AJ6VOJtp00oxSkBZ5h","Harry's House","2022-05-20","13","album","4.09"
+"6NjWCIYu1W8xa3HIvcIhd4","Nasty","1","67","FALSE","Tinashe","76","3084389","alternative r&b","1vMVDUsMWaD5eB4oahCboP","Nasty","2024-04-12","1","single","2.93"
+"5HUQPQ9E1a4er4UhB8C7Rc","Dollhouse (with Lily Rose Depp)","1","64","FALSE","The Weeknd","93","112957721","r&b pop, alternative r&b, hip hop, synthpop","10SppFk45za4CHPEiiuQaD","The Idol Episode 5 Part 2 (Music from the HBO Original Series)","2023-07-03","3","single","3.99"
+"5l6hpyTGBK0LAAxgPnqTQL","Look After You","7","82","FALSE","The Fray","73","4290197","N/A","1IM3GwptCGYjRkzCBolyFK","How To Save A Life","2005-09-13","12","album","4.44"
+"7bgYrlMU0S1wfNPPD4A91Z","I Hate Your Ex-Girlfriend (feat. Doechii)","2","48","TRUE","BANKS","56","1078897","N/A","0KLWUjARA0kqAtVN83d8I8","Off With Her Head","2025-02-28","12","album","2.39"
+"3lKZf71jeNi14udIFPJ29V","I Knew You Were Trouble.","4","64","FALSE","Taylor Swift","100","145443567","country, pop, indie, folk","1KVKqWeRuXsJDLTW0VuD29","Red (Deluxe Edition)","2012-10-22","22","album","3.66"
+"0yLdNVWF3Srea0uzk55zFn","Flowers","1","14","FALSE","Miley Cyrus","81","26564677","country pop, rock, hip hop, experimental","7I0tjwFtxUwBC1vgyeMAax","Flowers","2023-01-13","1","single","3.34"
+"2BMhTcquomJgCq3MfNkY1P","Want U Back","1","32","FALSE","NEVE","25","19649","N/A","37YWIL8h1u1TZIzbKTETRA","Want U Back","2023-04-14","1","single","2.51"
+"6N10tJfiQqm4wn6KM70aoT","Up Is Down - From Pirates of the Caribbean: At World's End/Score","5","53","FALSE","Hans Zimmer","77","4780589","soundtrack","241F2pNbl6OIJPixynRuiu","Pirates of the Caribbean: At World's End","2007-01-01","13","compilation","2.7"
+"4JHg4nNYUJQ5HULcCmI18R","What You Know","8","73","FALSE","Two Door Cinema Club","66","2546279","indie, indie rock","6n8oS6u5qw6xWGT754V1M6","Tourist History","2010-03-01","10","album","3.16"
+"1jUkHIMc7UaJQuzWe5Iop2","Sweet Disposition","3","74","FALSE","The Temper Trap","69","773244","N/A","6p9eMHBHyvHDGK1WIerBfh","Conditions","2009-08-10","10","album","3.9"
+"3sZQ8L4aptFDJXBqdVdvO8","Run It Up","1","65","TRUE","Hanumankind","66","876436","malayalam hip hop, desi hip hop","444Yv0TGl5HeJA0Dg4YdFz","Run It Up","2025-03-06","1","single","2.89"
+" Myself & I,3,79,TRUE,G-Eazy,74,6295376,N/A,09Q3WwGYsQe5ognkvVkmCu,When It's Dark Out,2015-12-04,17,album,4.19
+0PJIbOdMs3bd5AT8liULMQ,oui,4,76,FALSE,Jeremih,73,7218544,N/A,7DMyQuDPe8xzjC0UDSDa96,Late Nights: The Album,2015-12-04,15,album,3.97
+6f49kbOuQSOsStBpyGvQfA,A Head Full of Dreams,1,64,FALSE,Coldplay,88,60804949,N/A,3cfAM8b8KqJRoIzt3zLKqw,A Head Full of Dreams,2015-12-04,11,album,3.72
+69uxyAqqPIsUyTO8txoP2M,Adventure of a Lifetime,5,83,FALSE,Coldplay,88,60804949,N/A,3cfAM8b8KqJRoIzt3zLKqw,A Head Full of Dreams,2015-12-04,11,album,4.39
+3wtV2ifnHzirkAElgTGh63,Amazing Day,9,58,FALSE,Coldplay,88,60830643,N/A,3cfAM8b8KqJRoIzt3zLKqw,A Head Full of Dreams,2015-12-04,11,album,4.51
+4giCxIFPZNQIP4bIZM4sqH,Army of One,8,54,FALSE,Coldplay,88,60818952,N/A,3cfAM8b8KqJRoIzt3zLKqw,A Head Full of Dreams,2015-12-04,11,album,6.28
+3HWDWyIqWuLsTHECx9DvXF,Birds,2,60,FALSE,Coldplay,88,60804949,N/A,3cfAM8b8KqJRoIzt3zLKqw,A Head Full of Dreams,2015-12-04,11,album,3.81
+0pw6zKvwrs0BakTr5AGup9,2008,9,53,TRUE,Lil Peep,82,15684530,emo rap"," cloud rap,4hiArqU343m8BUT0lymyLO,LIVE FOREVER,2015-12-02,10,album,1.72
+3i2SZSfmDRhvSkj0vZ1owx,angeldust,1,62,TRUE,Lil Peep,82,15689879,emo rap"," cloud rap,4hiArqU343m8BUT0lymyLO,LIVE FOREVER,2015-12-02,10,album,1.85
+1Viaum8JtbWNZdt4oyCYtr,pick me up,3,50,TRUE,Lil Peep,82,15695162,emo rap"," cloud rap,4hiArqU343m8BUT0lymyLO,LIVE FOREVER,2015-12-02,10,album,2.81
+07KdHPTGNC07DqB34T1w7M,mirror"," mirror,2,51,TRUE,Lil Peep,82,15689879,emo rap"," cloud rap,4hiArqU343m8BUT0lymyLO,LIVE FOREVER,2015-12-02,10,album,1.71
+4k3xDpAdBuM17mNNHhOZkK,nuts,4,85,TRUE,Lil Peep,82,15684530,emo rap"," cloud rap,4hiArqU343m8BUT0lymyLO,LIVE FOREVER,2015-12-02,10,album,1.42
+2xa9224f1RXkIDoRvs58yI,give u the moon,10,57,TRUE,Lil Peep,82,15689879,emo rap"," cloud rap,4hiArqU343m8BUT0lymyLO,LIVE FOREVER,2015-12-02,10,album,2.32
+3JbnEiTszmfArBtYVU4DoO,vibe,6,53,TRUE,Lil Peep,82,15695162,emo rap"," cloud rap,4hiArqU343m8BUT0lymyLO,LIVE FOREVER,2015-12-02,10,album,1.88
+1eMVXXpNPEUdFRy5ZH7FpM,DADDY,4,62,FALSE,PSY,62,1819211,k-pop,1aHmoh8Iog2xqwVk9A77yc,PSY 7TH ALBUM,2015-12-01,9,album,3.84
+6axLEm9t29JqORFwNFUket,Kalam,6,40,FALSE,Mashrou' Leila,45,376028,N/A,2o1oVA8QBzR3vFbH1bs73d,Ibn El Leil,2015-11-28,13,album,4.09
+1Lim1Py7xBgbAkAys3AGAG,Lean On,4,4,FALSE,Major Lazer,73,6302021,moombahton,4pCLlUxlKj3pNVdBtFyhrU,Peace Is The Mission (Extended),2015-11-27,17,album,2.94
+2YWjW3wwQIBLNhxWKBQd16,Lean On (feat. MØ & DJ Snake),4,69,FALSE,Major Lazer,73,6301986,moombahton,2U0b5MfkMUgzdvRUI69mya,Peace Is The Mission : Extended,2015-11-27,14,album,2.94
+5hwh37sTi84MVhCBMWzhGE,Superficial Love,4,62,FALSE,Ruth B.,69,4465726,N/A,4gS6995dvPQJf80VBtoxi8,The Intro,2015-11-27,4,single,3.46
+0BcP3FTTxSty93nTnB2a9H,Powerful (feat. Ellie Goulding & Tarrus Riley),5,53,FALSE,Major Lazer,73,6302021,moombahton,2U0b5MfkMUgzdvRUI69mya,Peace Is The Mission : Extended,2015-11-27,14,album,3.43
+500mvzh7TRZ0YdnVeHhj8b,Light It Up - Remix,10,2,FALSE,Major Lazer,73,6301808,moombahton,4pCLlUxlKj3pNVdBtFyhrU,Peace Is The Mission (Extended),2015-11-27,17,album,2.76
+6lDo13SSgTv0WbyUQKgnjk,Light It Up (feat. Nyla & Fuse ODG) - Remix,10,9,FALSE,Major Lazer,73,6301808,moombahton,0OY2WzmmPG8yRZzmMeTX9N,Peace Is the Mission (Extended Edition),2015-11-27,14,album,2.76
+2xzqIuW15EVWvLB3yP6jkI,Night Riders (feat. Travi$ Scott"," 2 Chainz"," Pusha T & Mad Cobra),8,41,TRUE,Major Lazer,73,6301986,moombahton,2U0b5MfkMUgzdvRUI69mya,Peace Is The Mission : Extended,2015-11-27,14,album,3.88
+7B5Npv8NjjTCzk8PLpU66h,Love In The Dark,8,73,FALSE,Adele,83,66705650,soft pop,3AvPX1B1HiFROvYjLb5Qwi,25,2015-11-20,11,album,4.76
+2qBmtZnPSQouvADmqaHKxk,Million Years Ago,9,64,FALSE,Adele,83,66705650,soft pop,6TVfiWmo8KtflUAmkK9gGF,25,2015-11-20,11,album,3.78
+7GgWAITsYJaRM3r50rfh5w,When We Were Young,4,72,FALSE,Adele,83,66705650,soft pop,3AvPX1B1HiFROvYjLb5Qwi,25,2015-11-20,11,album,4.84
+05TOt5Vz4StdjMpEdFPlvB,All I Ask,10,69,FALSE,Adele,83,66734917,soft pop,3AvPX1B1HiFROvYjLb5Qwi,25,2015-11-20,11,album,4.53
+4irYeuAi87yyGHcI4h9s0x,Paris,1,0,TRUE,$uicideboy$,83,8957416,emo rap"," horrorcore"," cloud rap"," trap metal"," underground hip hop,2zQsirZE9McFbEoLkhxcpk,Now The Moon's Rising,2015-11-20,10,album,1.85
+1zZh6zTXcDgvN0C6S1G4gU,Remedy,5,62,FALSE,Adele,83,66705650,soft pop,6TVfiWmo8KtflUAmkK9gGF,25,2015-11-20,11,album,4.09
+0bqC0AqaBZKBZsjhI3y2OW,River Lea,7,57,FALSE,Adele,83,66720643,soft pop,6TVfiWmo8KtflUAmkK9gGF,25,2015-11-20,11,album,3.75
+563SfWAHJs4FBZMkRN0IFN,Send My Love (To Your New Lover),2,71,FALSE,Adele,83,66720643,soft pop,6TVfiWmo8KtflUAmkK9gGF,25,2015-11-20,11,album,3.71
+5t4B1kAlCD13YY9poph0Mg,Stitches,2,53,FALSE,Shawn Mendes,81,45700057,N/A,11fLgnq2LE8p5hzo8urweI,Handwritten (Revisited),2015-11-20,16,album,3.44
+5MeZ2oryBpcktBzNte6tEE,Heartburn,3,37,FALSE,Wafia,55,173156,N/A,24p8vyOJDS4sm701uyUmJ7,XXIX,2015-11-20,5,single,3.44
+62PaSfnXSMyLshYJrlTuL3,Hello,1,72,FALSE,Adele,83,66734917,soft pop,3AvPX1B1HiFROvYjLb5Qwi,25,2015-11-20,11,album,4.92
+7M9t7BCy51ITF8IMyiemzk,I Know What You Did Last Summer,13,51,FALSE,Shawn Mendes,81,45700057,N/A,11fLgnq2LE8p5hzo8urweI,Handwritten (Revisited),2015-11-20,16,album,3.73
+6NdG17SJBXKJeYS67f7E74,I Miss You,3,59,FALSE,Adele,83,66734917,soft pop,6TVfiWmo8KtflUAmkK9gGF,25,2015-11-20,11,album,5.81
+2RqtfcLB7iOZj0zYB8Auhu,Jealous,2,69,FALSE,Nick Jonas,63,9979409,N/A,4G4Azv5cwPBv3vCA0mD6ei,Nick Jonas X2,2015-11-20,21,album,3.71
+2Eb7QQ5soJQBEYTfSb5BS6,Sweetest Devotion,11,53,FALSE,Adele,83,66734917,soft pop,6TVfiWmo8KtflUAmkK9gGF,25,2015-11-20,11,album,4.19
+2DRMuw0U0QbkVQxWxdJV3M,Water Under the Bridge,6,71,FALSE,Adele,83,66734917,soft pop,6TVfiWmo8KtflUAmkK9gGF,25,2015-11-20,11,album,4
+7EyTP9nFCr4rxZTdtsQevI,Sunshine Overtime,7,39,FALSE,Chris Young,65,2918550,country"
+"2Jok5Npfn0LOIHw3GYMim0","Bloodsuckers","16","35","FALSE","Johnny Hollow","29","32152","N/A","5RTZwP0qWeeHfppJsAujBm","A Collection of Creatures","2014-01-22","16","album","2.6"
+"6ZFbXIJkuI1dVNWvzJzown","Time","12","73","FALSE","Hans Zimmer","77","4780589","soundtrack","2qvA7HmSg1iM6XMiFF76dp","Inception (Music from the Motion Picture)","2010-07-09","12","album","4.59"
+"3dd9uXh41vmFLO3UvqLJL6","Wednesday Main Titles","1","62","FALSE","Danny Elfman","66","490560","soundtrack","2uuGxhpcN88ctFFHAYOzxF","Wednesday (Original Series Soundtrack)","2022-11-23","48","album","1.16"
+"6GdUMm5xMw9hJckIc0qsGb","Coffee","4","65","FALSE","Chappell Roan","82","7299563","N/A","0EiI8ylL0FmWWpgHVTsZjZ","The Rise and Fall of a Midwest Princess","2023-09-22","14","album","3.42"
+"0YUrjFy4qFKOO5NhM9tYdV","Locked Up","1","63","TRUE","Akon","82","6007512","N/A","6X7HEjHrNHimc0buMQpNya","Trouble","2006-01-01","13","album","3.91"
+"2X05EASOuBv6aRQRJoGI1i","Phantom Pain","4","47","FALSE","girl in red","73","8768495","bedroom pop","5QaKu3YoUJNglyaKixaegf","I'M DOING IT AGAIN BABY!","2024-04-12","10","album","2.86"
+"2tB5sTm4Lb8e6U0dNGuqtz","House of the Rising Sun","11","58","FALSE","Lauren O'Connell","40","23482","southern gothic","0ZuL0j8jVfNydM5P4Zzxix","Covers","2012-10-29","11","album","3.08"
+"1ijrMIqQvZNsnoqGukPzFD","I'm Forrest... Forrest Gump","1","58","FALSE","Alan Silvestri","57","327242","soundtrack","1Fw951OcmbeCmVnnNcRYrp","Forrest Gump - Original Motion Picture Score","1994-08-02","21","album","2.66"
+"3XqM8hLCEYlbnFjoWwqtFv","Angel Numbers / Ten Toes","1","77","TRUE","Chris Brown","87","28327351","r&b","0tL8CzbfmF5poGm9puqALR","11:11","2023-11-10","22","album","5.11"
+"7KZJnMtwu2s80jO5Frthap","So Much Better","4","33","TRUE","Eminem","88","104584370","rap, hip hop","3vOgbDjgsZBAPwV2M3bNOj","The Marshall Mathers LP2","2013-11-05","16","album","4.35"
+"2wBknFtpATOG4LDG3BzIzI","Safe and Sound - Niklas Dee & Luca-Dante Spadafora Remix","1","50","FALSE","Neptunica","62","73057","hypertechno","0B7sAo6TCAyMhwQGTtU2FK","Safe and Sound (Niklas Dee & Luca-Dante Spadafora Remix)","2023-08-04","1","single","2.52"
+"6BQrmjAgPfPTwILoFEK3Hd","I Wish you Roses","1","54","FALSE","Kali Uchis","83","9469943","N/A","2XCrHIlpS6yq2Lix46lOPi","I Wish you Roses","2023-01-19","1","single","3.76"
+"7Kt59L2ZZGtOnIhvMwzG6f","Diamonds","2","53","FALSE","Rihanna","90","68997177","pop, r&b","4eddbruVtOqw8khwxSH6H2","Unapologetic (Deluxe)","2012-12-11","17","album","3.75"
+"6rUp7v3l8yC4TKxAAR5Bmx","I Hate Everything About You","3","73","FALSE","Three Days Grace","77","7300288","post-grunge, rock","38pfSOHvxHqDWwDnjZ25U5","Three Days Grace (Expanded Edition)","2003-07-22","15","album","3.85"
+"7IWcDWOfiooH5hRs9XOVYz","Fresh Out The Slammer","7","69","FALSE","Taylor Swift","100","145396321","country, pop, indie, folk","5H7ixXZfsNMGbIE5OBSpcb","THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY","2024-04-19","31","album","3.51"
+"4n7JWRT5fH2YqqWMljGcYf","Volta Amor","1","12","TRUE","Bruno Chosen","2","107","N/A","3dHnLcOpXjNkKExvfUse4K","Boopy","2025-01-24","2","single","2.73"
+"2TL9ng664CxAiRs37Hfa2Z","1001 Arabian Nights","2","52","FALSE","Chipz","39","22403","N/A","3fuyXU6qRuSyC8yK3cMu83","The World Of CH!PZ (Deluxe version)","2005-03-18","15","album","3.11"
+"6WO7IDGLakjO38lsvI2gHB","Slow It Down","1","69","FALSE","Benson Boone","83","7045466","N/A","5UI2uTwSWoS6NmlxurwElQ","Slow It Down","2024-03-21","1","single","2.69"
+"6sGIMrtIzQjdzNndVxe397","So Easy (To Fall In Love)","5","90","FALSE","Olivia Dean","88","1499215","pop soul","0l8zYqoUeBYg47Gmevq9HZ","The Art of Loving","2025-09-26","12","album","2.81"
+" pop"," indie"," folk,6AORtDjduMM3bupSWzbTSG,evermore (deluxe version),2021-01-07,17,album,4.34
+6lCvK2AR2uOKkVFCVlAzzm,tolerate it,5,65,TRUE,Taylor Swift,100,145396321,country"," pop"," indie"," folk,6AORtDjduMM3bupSWzbTSG,evermore (deluxe version),2021-01-07,17,album,4.09
+0MyfdGptOUnUnGzJmiyCOG,VIRUS - Odd Mob Remix,3,59,FALSE,GEN.KLOUD,46,17374,N/A,7BIq8KJwrUVHaRsDNY5glN,AUTONOMY (REMIXES),2021-01-07,7,album,3.07
+5VYWxXUpxuxEmCqMLDqICo,long story short,12,62,FALSE,Taylor Swift,100,145396321,country"," pop"," indie"," folk,6AORtDjduMM3bupSWzbTSG,evermore (deluxe version),2021-01-07,17,album,3.59
+5uICWmZTLkpEVbK22PBP6e,marjorie,13,62,FALSE,Taylor Swift,100,145396321,country"," pop"," indie"," folk,6AORtDjduMM3bupSWzbTSG,evermore (deluxe version),2021-01-07,17,album,4.29
+6uwfVkaOM1mcMkFmSn35ix,no body"," no crime (feat. HAIM),6,63,FALSE,Taylor Swift,100,145489371,country"," pop"," indie"
+"66VuIGcM7fd8NLMoORCqVJ","Strong Enough (feat. Bailey Zimmerman)","1","58","FALSE","Jonas Brothers","75","7761878","N/A","7DTTXmNJFIXdf5QyA0Y9JX","Strong Enough","2023-11-10","1","single","2.48"
+"0XkZmBCCcdMY0EPY8ij6Gb","Slim Pickins","9","70","FALSE","Sabrina Carpenter","91","26516295","pop","3iPSVi54hsacKKl1xIR2eH","Short n' Sweet","2024-08-23","12","album","2.53"
+"6MrLkXsMmHaYt680fhJUAq","12 to 12","1","85","FALSE","sombr","85","2802094","N/A","2TrTb21wiXbwQohvN1UfFV","12 to 12","2025-07-24","1","single","4.04"
+"2hw47GMKL6LXwp5BJgPxXf","He Won't Go","6","57","FALSE","Adele","83","66720643","soft pop","5duyQokC4FMcWPYTV9Gpf9","21","2011-01-24","11","album","4.63"
+" country"," traditional country"," outlaw country"," honky tonk,7jHxaZCVO8ITJOtQzexSI8,Hello Darlin',1970-03-23,11,album,2.8
+1FTCA6wQwulQFokDddKE68,Polythene Pam - Remastered 2009,12,54,FALSE,The Beatles,82,30718195,classic rock"," psychedelic rock,0ETFjACtuP2ADo6LFhL6HN,Abbey Road (Remastered),1969-09-26,17,album,1.21
+2jtUGFsqanQ82zqDlhiKIp,She Came In Through The Bathroom Window - Remastered 2009,13,57,FALSE,The Beatles,82,30714318,classic rock"," psychedelic rock,0ETFjACtuP2ADo6LFhL6HN,Abbey Road (Remastered),1969-09-26,17,album,1.97
+0pNeVovbiZHkulpGeOx1Gj,Something - Remastered 2009,2,75,FALSE,The Beatles,82,30718195,classic rock"," psychedelic rock,0ETFjACtuP2ADo6LFhL6HN,Abbey Road (Remastered),1969-09-26,17,album,3.03
+2S8xyNRJX1XQdo3qnTuovI,Maxwell's Silver Hammer - Remastered 2009,3,58,FALSE,The Beatles,82,30714318,classic rock"," psychedelic rock,0ETFjACtuP2ADo6LFhL6HN,Abbey Road (Remastered),1969-09-26,17,album,3.46
+4JOyMhad5dD81uGYLGgKrS,Mean Mr Mustard - Remastered 2009,11,54,FALSE,The Beatles,82,30718195,classic rock"," psychedelic rock,0ETFjACtuP2ADo6LFhL6HN,Abbey Road (Remastered),1969-09-26,17,album,1.1
+0suLngfo7rJoetk7Ub6N8l,Octopus's Garden - Remastered 2009,5,65,FALSE,The Beatles,82,30718195,classic rock"," psychedelic rock,0ETFjACtuP2ADo6LFhL6HN,Abbey Road (Remastered),1969-09-26,17,album,2.84
+2mxByJWOajjiVsLWjNXvDJ,Oh! Darling - Remastered 2009,4,68,FALSE,The Beatles,82,30721676,classic rock"," psychedelic rock,0ETFjACtuP2ADo6LFhL6HN,Abbey Road (Remastered),1969-09-26,17,album,3.45
+1rxoyGj1QuPoVi8fOft1Kt,Because - Remastered 2009,8,57,FALSE,The Beatles,82,30714318,classic rock"," psychedelic rock,0ETFjACtuP2ADo6LFhL6HN,Abbey Road (Remastered),1969-09-26,17,album,2.76
+5eZrW59C3UgBhkqNlowEID,Carry That Weight - Remastered 2009,15,58,FALSE,The Beatles,82,30721676,classic rock"," psychedelic rock,0ETFjACtuP2ADo6LFhL6HN,Abbey Road (Remastered),1969-09-26,17,album,1.6
+01SfTM5nfCou5gQL70r6gs,Golden Slumbers - Remastered 2009,14,66,FALSE,The Beatles,82,30714318,classic rock"," psychedelic rock,0ETFjACtuP2ADo6LFhL6HN,Abbey Road (Remastered),1969-09-26,17,album,1.52
+6UCFZ9ZOFRxK8oak7MdPZu,Her Majesty - Remastered 2009,17,27,FALSE,The Beatles,82,30721676,classic rock"," psychedelic rock,0ETFjACtuP2ADo6LFhL6HN,Abbey Road (Remastered),1969-09-26,17,album,0.43
+6dGnYIeXmHdcikdzNNDMm2,Here Comes The Sun - Remastered 2009,7,82,FALSE,The Beatles,82,30714318,classic rock"
+"2913xXOVAIDAqxzV2g4VcU","The Bolter","29","69","TRUE","Taylor Swift","100","145396321","country, pop, indie, folk","5H7ixXZfsNMGbIE5OBSpcb","THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY","2024-04-19","31","album","3.97"
+"2wqaekenSQZm7hxQOYt8oE","Am I Wrong","1","56","FALSE","Nico & Vinz","61","573474","N/A","1uaIXmroQAjO7DB6zZPcpV","Am I Wrong","2014-01-21","1","single","4.12"
+"3nRmDz7qGCvsMS30rGGY0x","Welcome To New York","1","52","FALSE","Taylor Swift","100","145396321","country, pop, indie, folk","1yGbNOtRIgdIiGHOEBaZWf","1989 (Deluxe)","2014-01-01","19","album","3.54"
+"4WGds8JfW57apo2HHLORop","Barbie (Can You Play Ken?)","1","0","FALSE","lilster","45","16330","jersey club","1jdlRluwOgkV2pT9n32V04","Barbie (Can You Play Ken?)","2024-04-25","1","single","2.89"
+"5ERfbppCElVkUmpBzK4Upz","Wide Open Spaces","12","49","FALSE","Revline","47","505","country","3TlM68EnA35dHWYQHeK9k3","The Garage Sessions","2025-06-18","12","album","2.33"
+" indie pop,2DpEBrjCur1ythIZ10gJWw,Honeymoon,2015-09-18,14,album,4.91
+3pyrRowLIrRCHzg7cdzMy9,Girls on Film,7,52,FALSE,Mindless Self Indulgence,70,1617182,N/A,7rG4vuycKANcRMivzlkpuD,PINK,2015-09-18,19,album,2.98
+1DYRRZ5rSlc1PopnB7azLZ,Swan Song,13,57,FALSE,Lana Del Rey,88,51821190,alternative pop"," indie pop,2DpEBrjCur1ythIZ10gJWw,Honeymoon,2015-09-18,14,album,5.39
+45pI8224KKX9Gx5fiyvEAh,The Blackest Day,11,67,FALSE,Lana Del Rey,88,51821190,alternative pop"," indie pop,2DpEBrjCur1ythIZ10gJWw,Honeymoon,2015-09-18,14,album,6.09
+302ZEWd1TDXvA4PLz0UQhj,24,12,56,FALSE,Lana Del Rey,88,51798111,alternative pop"," indie pop,2DpEBrjCur1ythIZ10gJWw,Honeymoon,2015-09-18,14,album,4.93
+5jqNQZBwbZWQXPWfo0ygZF,Art Deco,7,78,FALSE,Lana Del Rey,88,51798111,alternative pop"," indie pop,2DpEBrjCur1ythIZ10gJWw,Honeymoon,2015-09-18,14,album,4.91
+5yZvaUVyuXfSVUaMumFi6l,Runnin' (Lose It All),1,66,FALSE,Naughty Boy,62,415464,N/A,2YnYgyx7N8MkgQHCcRYfKP,Runnin' (Lose It All),2015-09-17,1,single,3.55
+39mPRdfh5ipE7AZrlicnNp,Make Up Sex,7,56,FALSE,SoMo,55,705196,N/A,6uGOeETMsNfv5alC0XnmyN,My Life II,2015-09-11,9,album,3.71
+1XazlqB4YAtvouCmJPWXlM,Wanna Be That Song,4,61,FALSE,Brett Eldredge,56,1494083,country"," christmas,5Og3UBs6tCL47yee1ukYgw,Illinois,2015-09-11,12,album,3.93
+1jNNHFZmRGXZFHlil5uhei,Drunk on Your Love,9,56,FALSE,Brett Eldredge,56,1494124,country"," christmas,5Og3UBs6tCL47yee1ukYgw,Illinois,2015-09-11,12,album,2.89
+6WLS56xiRrXjSm9RSdL3zD,Never Forget You,1,1,FALSE,Zara Larsson,78,10915923,N/A,1sd9bVAWxBl0qeVS8tzlzL,Never Forget You,2015-09-10,1,single,3.55
+3aAeD4aD0PdM3gilTQscqj,Peaceful Moments,12,45,FALSE,Adam Skorupa,42,17023,medieval,19uGvOnAhqEQ7irwCEce99,The Witcher (Original Game Soundtrack),2015-09-09,29,album,5.16
+0hv8o1BAlQrFTVDLqYVGk9,River Of Life,3,43,FALSE,Pawel Blaszczak,43,18068,medieval,19uGvOnAhqEQ7irwCEce99,The Witcher (Original Game Soundtrack),2015-09-09,29,album,5.35
+2TLO035tumZKpxxeDlKYQb,A Tavern On The Riverbank,25,46,FALSE,Adam Skorupa,42,17017,medieval,0dAhuTx13ciZIXgan98X7Z,The Witcher 2: Assassins Of Kings (Enhanced Edition) [Original Game Soundtrack],2015-09-09,47,album,1.72
+0NI53QNAxWf9BPMrB3btG7,Evening In The Tavern,11,44,FALSE,Pawel Blaszczak,43,18068,medieval,19uGvOnAhqEQ7irwCEce99,The Witcher (Original Game Soundtrack),2015-09-09,29,album,0.95
+3xby7fOyqmeON8jsnom0AT,Nightcrawler (feat. Swae Lee & Chief Keef),7,76,TRUE,Travis Scott,89,41119579,rap,4PWBTB6NYSKQwfo79I3prg,Rodeo,2015-09-04,16,album,5.35
+1wHZx0LgzFHyeIZkUydNXq,Antidote,9,71,TRUE,Travis Scott,89,41131037,rap,4PWBTB6NYSKQwfo79I3prg,Rodeo,2015-09-04,16,album,4.37
+5pLpkaIRobcvPnUmclNv6o,Technicolour Beat,3,56,FALSE,Oh Wonder,64,1093423,N/A,37ABUtLPqktcopsBJ7jmXT,Oh Wonder,2015-09-04,15,album,3
+1mhVXWduD8ReDwusfaHNwU,Tell Your Friends,3,66,TRUE,The Weeknd,94,112995439,r&b pop"," alternative r&b"," hip hop"," synthpop,0P3oVJBFOv3TDXlYRhGL7s,Beauty Behind The Madness,2015-08-28,14,album,5.57
+7fBv7CLKzipRk6EC6TWHOB,The Hills,5,86,TRUE,The Weeknd,94,112995439,r&b pop"," alternative r&b"," hip hop"," synthpop,0P3oVJBFOv3TDXlYRhGL7s,Beauty Behind The Madness,2015-08-28,14,album,4.03
+4FqMPJlvfY5Nfo3gRKcNxl,Colors,8,58,FALSE,Halsey,80,22396044,N/A,5OZJflQcQCdZLQjtUudCin,BADLANDS (Deluxe),2015-08-28,16,album,4.15
+3SKzTIl9mW0DadTys9SFo3,Control,14,70,FALSE,Halsey,80,22396044,N/A,5OZJflQcQCdZLQjtUudCin,BADLANDS (Deluxe),2015-08-28,16,album,3.57
+6J7PIkhtHwmFjPLq0SyuPj,Dark Times,12,60,TRUE,The Weeknd,94,112995439,r&b pop"," alternative r&b"," hip hop"
+"2Cd9iWfcOpGDHLz6tVA3G4","Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] (feat. Freshlyground)","1","8","FALSE","Shakira","85","39809584","latin pop","3pzQF7YgU1f66pBayA8uHv","Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] (feat. Freshlyground)","2010-05-07","1","single","3.37"
+"3icywpqJ6o39VY61BXcGQS","Liberty Walk","1","39","FALSE","Miley Cyrus","81","26564677","country pop, rock, hip hop, experimental","69Pf9ExxwjhVFyosKsKWQu","Can't Be Tamed","2010-01-01","12","album","4.1"
+"1XHDV6SXCnyKKlp2KM8vHo","Move","1","42","FALSE","midnight Berlin","42","4170","hypertechno","7aO6EuLWDbtQSGp9fZjf2t","Move","2024-09-06","1","single","2.08"
+" country,4g1ZRSobMefqF6nelkgibi,Hollywood's Bleeding,2019-09-06,17,album,2.05
+0RiRZpuVRbi7oqRdSMwhQY,Sunflower - Spider-Man: Into the Spider-Verse,12,81,FALSE,Post Malone,85,47716988,pop"," hip hop"," country,4g1ZRSobMefqF6nelkgibi,Hollywood's Bleeding,2019-09-06,17,album,2.62
+7CZyCXKG6d5ALeq41sLzbw,Take What You Want (feat. Ozzy Osbourne & Travis Scott),9,79,FALSE,Post Malone,86,47720209,pop"," hip hop"," country,4g1ZRSobMefqF6nelkgibi,Hollywood's Bleeding,2019-09-06,17,album,3.82
+7xQAfvXzm3AkraOtGPWIZg,Wow.,17,77,TRUE,Post Malone,85,47716988,pop"," hip hop"," country,4g1ZRSobMefqF6nelkgibi,Hollywood's Bleeding,2019-09-06,17,album,2.49
+05mDaV9Vb3wrzjF6OPZnhq,Saint-Tropez,2,65,TRUE,Post Malone,85,47716988,pop"," hip hop"," country,4g1ZRSobMefqF6nelkgibi,Hollywood's Bleeding,2019-09-06,17,album,2.51
+4poybupy26pTWPr9zY1i7h,Some Say,1,61,FALSE,Nea,50,57965,N/A,5pCAWYym13GcQN8CXEb89m,Some Say,2019-09-06,1,single,2.92
+5KE9b4x7Zj2A8XtbkqhqTe,Staring At The Sun (feat. SZA),11,63,TRUE,Post Malone,86,47722935,pop"," hip hop"," country,4g1ZRSobMefqF6nelkgibi,Hollywood's Bleeding,2019-09-06,17,album,2.8
+2cvOfKHOHgwQlLiuLKP2xR,Myself,15,58,TRUE,Post Malone,85,47716988,pop"," hip hop"," country,4g1ZRSobMefqF6nelkgibi,Hollywood's Bleeding,2019-09-06,17,album,2.63
+12Fkyg9lpmaz2zmKOfw2Y2,On The Road (feat. Meek Mill & Lil Baby),8,67,TRUE,Post Malone,86,47726839,pop"," hip hop"," country,4g1ZRSobMefqF6nelkgibi,Hollywood's Bleeding,2019-09-06,17,album,3.63
+57j65yC2HggQfmYNc6rdOK,bad idea!,1,72,TRUE,girl in red,73,8768495,bedroom pop,4AEKKY9Sny3Uj6U3ELK4Sl,bad idea!,2019-09-03,1,single,3.66
+5USsRaiqL1RNKRm1fTJ3JM,Bartender,12,58,FALSE,Lana Del Rey,88,51798111,alternative pop"
+"2rmwqU7yzTvzkiaRV53DpT","2 Be Loved (Am I Ready)","4","64","FALSE","Lizzo","68","5739313","N/A","1NgFBv1PxMG1zhFDW1OrRr","Special","2022-07-15","12","album","3.11"
+"064wRZsHDLuoCJYw65gh7N","Like a Tattoo","12","60","FALSE","Sade","77","5109119","N/A","3uSWaQxJAdm5MWKQkQJNoK","The Best of Sade","1994-10-31","16","compilation","3.64"
+"74loibzxXRL875X20kenvk","Poland","1","58","TRUE","Lil Yachty","75","10907844","N/A","5LZiWbqOpj6g8uxSHch12S","Poland","2022-10-11","1","single","1.38"
+"5r00wpsojd4mBYaQFDvni7","Roller Coaster","4","63","FALSE","Luke Bryan","74","9408174","country, acoustic country","5M8gr5RV2eR6UkztC69ogB","Crash My Party","2013-01-01","13","album","4.31"
+"2t3BqduzpMJVMo5cceBLQY","Circle The Drain","6","36","TRUE","Katy Perry","83","38385499","pop","06SY6Ke6mXzZHhURLVU57R","Teenage Dream","2010-08-24","17","album","4.54"
+"5Su5ILFp6U83cnIXwfmlC5","Drunken Sailor","1","59","FALSE","The Irish Rovers","50","181181","sea shanties, celtic, celtic rock, celtic punk","5iyQuCFO65zkVXaqtBYFuo","Drunken Sailor","2012-02-22","14","album","2.94"
+"66EIPOdC3UZZCJdiUSRo92","Sayuri's Theme","1","43","FALSE","John Williams","70","1604690","soundtrack","4EstIlJ9P9TVBCOlvVLADj","Memoirs of a Geisha","2005-11-22","18","album","1.52"
+"4KlL5Bwlm4yHYxr0B2rHci","Heal","13","75","FALSE","Tom Odell","77","4311492","N/A","0Gf1yE895FKK4YWVRuAeg8","Long Way Down (Deluxe)","2013-06-24","15","album","3.21"
+"2eS0qIRmqPpu32pligBmo8","Eh, Eh (Nothing Else I Can Say)","5","48","FALSE","Lady Gaga","88","42256604","art pop, pop","6rePArBMb5nLWEaY9aQqL4","The Fame Monster (Deluxe Edition)","2009-11-05","23","album","2.92"
+"4IQrCJJiiwBx8G5v6GtMwe","I Want to Live - Classical Version","40","50","FALSE","Borislav Slavov","56","55191","medieval","6JR4qLOXu96krMWxBTpXSR","Baldur's Gate 3 (Original Game Soundtrack)","2023-08-10","43","album","3.99"
+"5r9OlaHzqlOKkFAv0q5Gm3","Wasteland (from the series Arcane League of Legends)","21","67","FALSE","Arcane","76","771980","N/A","2x6LWti2bjYS6AllSomoV7","Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)","2024-11-23","22","album","2.68"
+"4pjqoQgiGYbAhaN8T8eJGj","Now We’re Cookin’","47","18","FALSE","Son Lux","49","340030","N/A","6dJKjotJRGEE9rmGgmxDWu","Everything Everywhere All at Once (Original Motion Picture Soundtrack)","2022-04-08","49","album","2.24"
+"7vWFaMq63AwkFDhS2OAg5u","The Time (Dirty Bit)","1","72","FALSE","Black Eyed Peas","81","9553224","N/A","0BkpKcHw606at6Y2cp8kdE","The Beginning (Deluxe)","2010-01-01","15","album","5.12"
+"4TuH1lerJpmraZkEJcf9zJ","No Promises","1","39","FALSE","Topic","72","318142","N/A","6Vy2TEzq8DBX0vczYeKACP","No Promises","2024-06-07","1","single","2.6"
+"0pmJVAfRvW6bGSa1P1YWWa","Once Upon A Time In Africa","1","0","FALSE","Hans Zimmer","77","4779199","soundtrack","6xzALceHwgpeBIy1zSEx9d","Madagascar: Escape 2 Africa - Music From The Motion Picture","2008-01-01","17","compilation","3.73"
+"7so0lgd0zP2Sbgs2d7a1SZ","Die With A Smile","14","86","FALSE","Lady Gaga","89","42275793","art pop, pop","2MHUaRi9OCyTN02SoyRRBJ","MAYHEM","2025-03-07","14","album","4.19"
+"0ve0CavjqrUqVmZ605RhTV","Jump","1","63","FALSE","Tyla","77","3505794","afrobeats","4xbpCWaXMdAaDvEKAi02PX","Jump","2024-03-20","1","single","2.45"
+"0QNNd0qMCDbraS1nQPg3aA","HOTEL LOBBY (Unc & Phew)","1","63","TRUE","Quavo","76","8079123","N/A","0zWZX428gMb9vSBUMRdDiy","HOTEL LOBBY (Unc & Phew)","2022-05-20","1","single","2.37"
+"4Mbh5ixzAzmnJpEpdRcuZC","After the Rain","17","33","FALSE","Unlike Pluto","57","398659","N/A","4EeqIKMCBghfKdAXVgsQBt","Kiss Collapse","2025-08-22","17","album","2.93"
+"6s3dCTZCtmSxWx23QdJzpG","Televisions","3","0","FALSE","Current Joys","69","1761438","lo-fi indie","2hwXntoP4IIoi7yxHbH7aL","Wild Heart","2013-01-02","10","album","2.6"
+"2N0volXQpwsvjDorTTxBAU","Bonfire Heart","3","68","FALSE","James Blunt","70","3298298","N/A","4Sj9XfiPLf5byGh7u2ZU7g","Moon Landing","2013-10-04","11","album","3.96"
+"6oIEIdJL9kDbBrGIyLZHIT","Stereo Love","1","1","FALSE","Edward Maya","66","342955","N/A","6b4gKMVcGy22J8SGAOq1cO","The Stereo Love Show","2013-12-03","15","album","4.12"
+"4u7KjVIQPdzGCcAwg4W5Kl","Who I Am With You","7","57","FALSE","Chris Young","65","2918228","country, acoustic country","3cyLH6iUGPjEsZIUFnJfd3","A.M.","2013-09-16","11","album","3.19"
+"2zLnwikuCxJwMkEI8tqDN4","you never really cared","1","31","FALSE","Anna Marx","34","1693","N/A","4lsCek3wJDt94Ckqt4EBe7","you never really cared","2025-10-24","1","single","2.37"
+"0qwcGscxUHGZTgq0zcaqk1","Here's to Never Growing Up","2","66","TRUE","Avril Lavigne","76","12006589","N/A","7qjA5gbagHWVbqKUgVt49l","Avril Lavigne (Expanded Edition)","2013-11-01","16","album","3.57"
+"3sckKKIx96cjPXtiqPHCTB","Only U - No Intro","4","61","FALSE","Ashanti","70","3561441","r&b","3oL0vq8diYrPLGWVgjJBPD","Concrete Rose","2004-01-01","17","album","3.1"
+"6ayKgleoMF26lvU1Z7wVm7","Cruel World","1","62","TRUE","Lana Del Rey","88","51821190","alternative pop, indie pop","1ORxRsK3MrSLvh7VQTF01F","Ultraviolence (Deluxe)","2014-01-01","14","album","6.65"
+"0lJNSfWnwJMIh94Dv9jQUt","What Don't Belong To Me","6","66","FALSE","Post Malone","86","47720209","pop, hip hop, country","4BbsHmXEghoPPevQjPnHXx","F-1 Trillion","2024-08-15","18","album","3.45"
+"1jVMR9A0OYA8nFynsTnQsx","Broken Glass","1","32","TRUE","Phay","20","5344","N/A","4WZIszwKqggGyJvRiugyrS","Broken Glass","2025-10-03","1","single","2.27"
+"7LR85XLWw2yXqKBSI5brbG","Run This Town","4","78","TRUE","JAY-Z","82","10376731","hip hop, east coast hip hop, rap","2CUT0104gySOIvqwtXeFsX","The Blueprint 3","2009-09-08","15","album","4.45"
+"3HCMcB2kxuxoRaBmeIGcVl","Diet Mountain Dew","5","49","FALSE","Lana Del Rey","88","51798111","alternative pop, indie pop","5h5XOo9ZoMhKA4uu0NXiD7","Born To Die","2012-01-30","12","album","3.71"
+"0UYnhUfnUj5adChuAXvLUB","Sailor Song","1","5","FALSE","Gigi Perez","75","1641193","N/A","4DWrYvfGXRE8ko5ZxlIpit","Sailor Song","2024-07-26","1","single","3.53"
+"1UcyzhmBDfdw07DiuT7DEG","The Perfect Girl - The Motion Retrowave Remix","1","61","FALSE","Mareux","62","585032","darkwave, cold wave","6LtIcRhkNqGdXl2OESjDPE","The Perfect Girl (The Motion Retrowave Remix)","2022-05-16","2","single","3.01"
+"3ale59L81ZYbjj9sm5EIIR","Homewrecker","4","51","FALSE","MARINA","72","6115364","N/A","49kf7gWWtReFwPcCNsvyUf","Electra Heart (Deluxe)","2012-04-27","17","album","3.37"
+"6RcgPZ49rLWNqHiEFEmKNZ","The Game is On","2","0","FALSE","David Arnold & Michael Price","0","5770","N/A","1ub61owIR4GAX9CwpVClra","Sherlock (Soundtrack from the TV Series)","2012-03-13","19","album","3.68"
+"5TFD2bmFKGhoCRbX61nXY5","NUEVAYoL","1","89","FALSE","Bad Bunny","95","102571645","reggaeton, trap latino, urbano latino, latin","5K79FLRUCSysQnVESLcTdb","DeBÍ TiRAR MáS FOToS","2025-01-05","17","album","3.06"
+" southern gothic"," bluegrass,5Oli3gQJrHdahY7FDEoofW,The Music of Red Dead Redemption 2 (Original Soundtrack),2019-07-12,13,compilation,3.98
+56yAmF92h7CXRWsrVUxTzf,Oh My Lovely,12,45,FALSE,Daniel Lanois,47,79382,N/A,5Oli3gQJrHdahY7FDEoofW,The Music of Red Dead Redemption 2 (Original Soundtrack),2019-07-12,13,compilation,3.21
+7kUzkS03Ov7VU43VvFCVoF,Red,7,48,FALSE,Daniel Lanois,47,79399,N/A,5Oli3gQJrHdahY7FDEoofW,The Music of Red Dead Redemption 2 (Original Soundtrack),2019-07-12,13,compilation,2.25
+4vUmTMuQqjdnvlZmAH61Qk,South of the Border (feat. Camila Cabello & Cardi B),2,74,FALSE,Ed Sheeran,88,122773292,soft pop,3oIFxDIo2fwuk4lwCmFZCx,No.6 Collaborations Project,2019-07-12,15,album,3.4
+4YzzeycRmg12c4SzgJDrFx,Table Top,10,43,FALSE,Daniel Lanois,47,79382,N/A,5Oli3gQJrHdahY7FDEoofW,The Music of Red Dead Redemption 2 (Original Soundtrack),2019-07-12,13,compilation,4.09
+5ui44u6tEnipuke1eKYpMI,That's The Way It Is,3,57,FALSE,Daniel Lanois,47,79399,N/A,5Oli3gQJrHdahY7FDEoofW,The Music of Red Dead Redemption 2 (Original Soundtrack),2019-07-12,13,compilation,4.13
+3okk47CKOqAm1TXmVPzNYf,Unshaken,1,60,FALSE,D'Angelo,69,1427660,neo soul,5Oli3gQJrHdahY7FDEoofW,The Music of Red Dead Redemption 2 (Original Soundtrack),2019-07-12,13,compilation,3.88
+3BUT32qmBXmlqp3EJkgRfp,Remember,16,52,FALSE,Hans Zimmer,77,4777574,soundtrack,7e8y48Z2fkJNGBOKSECCeS,The Lion King (Original Motion Picture Soundtrack),2019-07-10,19,compilation,3.16
+5Uym8nZf9WyDsxPuum3ntT,Roulette,8,47,TRUE,mgk,78,5643375,N/A,0bJIHF1Or1YBLFBMwv53K2,Hotel Diablo,2019-07-05,14,album,3.04
+0s8vpu2GVH8MNX2Er3xNYt,Sex Drive,1,41,TRUE,mgk,78,5642365,N/A,0bJIHF1Or1YBLFBMwv53K2,Hotel Diablo,2019-07-05,14,album,2.05
+6CVrnuMvknlW7OXmY1zgX4,Death In My Pocket,10,58,TRUE,mgk,78,5643375,N/A,0bJIHF1Or1YBLFBMwv53K2,Hotel Diablo,2019-07-05,14,album,2.99
+2jRmKc69qzGKzGU9SdH5u7,el Diablo,2,57,TRUE,mgk,78,5642925,N/A,0bJIHF1Or1YBLFBMwv53K2,Hotel Diablo,2019-07-05,14,album,2.43
+5WZ4qFbz1x2vELPg8S7vza,FLOOR 13,7,51,TRUE,mgk,78,5642925,N/A,0bJIHF1Or1YBLFBMwv53K2,Hotel Diablo,2019-07-05,14,album,3.24
+0YP8kt3sAYTj6eEyesreQH,Glass House (feat. Naomi Wild),4,67,TRUE,mgk,78,5642365,N/A,0bJIHF1Or1YBLFBMwv53K2,Hotel Diablo,2019-07-05,14,album,3.36
+0uFNdjWpogmaJYp2zlNJj5,Hollywood Whore,3,53,TRUE,mgk,78,5643375,N/A,0bJIHF1Or1YBLFBMwv53K2,Hotel Diablo,2019-07-05,14,album,3.38
+2gTdDMpNxIRFSiu7HutMCg,I Think I'm OKAY (with YUNGBLUD & Travis Barker),14,72,TRUE,mgk,78,5642925,N/A,0bJIHF1Or1YBLFBMwv53K2,Hotel Diablo,2019-07-05,14,album,2.82
+4WZpl5GUvuzXr54h1Dr7vz,Truck Norris Interlude,9,34,TRUE,mgk,78,5642365,N/A,0bJIHF1Or1YBLFBMwv53K2,Hotel Diablo,2019-07-05,14,album,0.87
+581geNTL8gGJE3MEPY5tcE,Waste Love (feat. Madison Love),12,55,TRUE,mgk,78,5643375,N/A,0bJIHF1Or1YBLFBMwv53K2,Hotel Diablo,2019-07-05,14,album,3.26
+2ipqXnu9eUA11VerUdiqjg,5:3666,13,49,TRUE,mgk,78,5642365,N/A,0bJIHF1Or1YBLFBMwv53K2,Hotel Diablo,2019-07-05,14,album,3.24
+1SGXy6nRTOJmY22vC6JwHE,A Message From The Count,6,35,TRUE,mgk,78,5642365,N/A,0bJIHF1Or1YBLFBMwv53K2,Hotel Diablo,2019-07-05,14,album,0.62
+1xGxSCtX96DB7inpF2wKIS,Burning Memories (feat. Lil Skies),5,49,TRUE,mgk,78,5642365,N/A,0bJIHF1Or1YBLFBMwv53K2,Hotel Diablo,2019-07-05,14,album,3.6
+37AGgp9VP8TVJBfEat74Bj,Candy (feat. Trippie Redd),11,62,TRUE,mgk,78,5642925,N/A,0bJIHF1Or1YBLFBMwv53K2,Hotel Diablo,2019-07-05,14,album,2.61
+4evmHXcjt3bTUHD1cvny97,Beautiful People (feat. Khalid),1,69,FALSE,Ed Sheeran,88,122773292,soft pop,3E12WU80fDMyu7GyIAx7wJ,Beautiful People (feat. Khalid),2019-06-28,1,single,3.29
+1TQXIltqoZ5XXyfCbAeSQQ,Dancing With Your Ghost,1,76,FALSE,Sasha Alex Sloan,66,1758258,N/A,3I677CWVoiOsbMxOQzjShB,Dancing With Your Ghost,2019-06-28,1,single,3.29
+2Y9v6F9vFK9Z8KAoFwAj9Z,Far From Home Suite Home,1,39,FALSE,Michael Giacchino,63,430076,soundtrack,7dHHxnqokv90t6wVqTEk6F,Spider-Man: Far from Home (Original Motion Picture Soundtrack),2019-06-28,25,album,8.45
+3j84U36KvLeXNDPv4t5pI8,Pure Water (with Migos),2,72,TRUE,Mustard,71,1930877,N/A,2WrNHOba5u6P9S9xEboaUy,Perfect Ten,2019-06-28,10,album,3.2
+51Fjme0JiitpyXKuyQiCDo,Lalala,1,71,TRUE,Y2K,56,331482,N/A,4WlC4FXhonJhNTXCQPGP3r,Lalala,2019-06-28,1,single,2.67
+3tbwvC8nj6ZjRSHWeDfBdK,Makeup,2,37,TRUE,Landon Cube,53,395259,N/A,1BWmyZNJdlGmbHqWgsDntN,Orange,2019-06-28,6,single,3.24
+6XHVuErjQ4XNm6nDPVCxVX,No Guidance (feat. Drake),11,80,TRUE,Chris Brown,87,28327351,r&b,1BfLzaTFI5qKsAAk0Ae6aV,Indigo,2019-06-28,32,album,4.34
+5zgkOLH6HfY5w8thZoS2jP,No Wind Resistance!,7,25,FALSE,Kinneret,52,112003,N/A,0k7dBuSv2qW747vD7XGGEr,DMZ,2019-06-28,12,album,3.31
+4hyVrAsoKKjxAvQjPRt0ai,Love Your Voice,2,68,FALSE,JONY,67,2053792,N/A,0NcthPhd70vrFBXmZw4U7Q,Список твоих мыслей,2019-06-21,9,album,2.5
+18wCJcoFmXZ0jfrFhF6cYS,Mount Everest,1,0,TRUE,Labrinth,73,3635756,N/A,0nkyBztSulCRM2vlPR2GF1,Mount Everest,2019-06-21,1,single,2.62
+02dRkCEc8Q5ch4TTcnLxOn,Nothing Breaks Like a Heart (feat. Miley Cyrus),9,74,FALSE,Mark Ronson,74,1294030,N/A,6vdLdzihSWxV8FgWU2GSvA,Late Night Feelings,2019-06-21,13,album,3.61
+0F7FA14euOIX8KcbEturGH,Old Town Road,8,72,FALSE,Lil Nas X,71,12310527,N/A,4IRiXE5NROxknUSAUSjMoO,7,2019-06-21,8,album,1.88
+2YpeDb67231RjR0MgVLzsG,Old Town Road (feat. Billy Ray Cyrus) - Remix,1,76,FALSE,Lil Nas X,71,12310527,N/A,4IRiXE5NROxknUSAUSjMoO,7,2019-06-21,8,album,2.61
+2raLqJ4Zi5tI1mV6sbz1EK,Exodus Blues,14,28,FALSE,Metro Exodus,33,13677,N/A,48skMic15wV2zu4HAOx28s,Metro Exodus Soundtrack,2019-06-21,32,album,1.16
+4no0eHn4fEB7tN1yZSXMma,C7osure (You Like),7,48,FALSE,Lil Nas X,71,12310527,N/A,4IRiXE5NROxknUSAUSjMoO,7,2019-06-21,8,album,2.47
+2flxduIqEbsicdmPyj1WVW,Imagination,1,70,FALSE,Foster The People,70,4025972,N/A,5LbiR8iqC4hYeIKifnmVqc,Imagination,2019-06-21,1,single,4.27
+6fTt0CH2t0mdeB2N9XFG5r,Panini,2,63,FALSE,Lil Nas X,71,12309710,N/A,4IRiXE5NROxknUSAUSjMoO,7,2019-06-21,8,album,1.91
+0TK2YIli7K1leLovkQiNik,Señorita,1,79,FALSE,Shawn Mendes,81,45703370,N/A,2ZaX1FdZCwchXl1QZiD4O4,Señorita,2019-06-21,1,single,3.18
+06wMMYvmlT9pgJgIctB46Q,So Free,2,51,FALSE,Alex Serra,50,143740,N/A,5TDehxSjzWraYDIzAjtxi6,In The Real World,2019-06-21,10,album,4.2
+6v3KW9xbzN5yKLt9YKDYA2,Señorita,1,80,FALSE,Shawn Mendes,81,45700057,N/A,0xzScN8P3hQAz3BT3YYX5w,Shawn Mendes (Deluxe),2019-06-19,16,album,3.17
+2bT1PH7Cw3J9p3t7nlXCdh,If I Can't Have You,3,74,FALSE,Shawn Mendes,81,45700057,N/A,0xzScN8P3hQAz3BT3YYX5w,Shawn Mendes (Deluxe),2019-06-19,16,album,3.19
+5ry2OE6R2zPQFDO85XkgRb,Money In The Grave (Drake ft. Rick Ross),2,73,TRUE,Drake,95,103039388,rap,00HZxSA1sOS9T3nA950sg4,The Best In The World Pack,2019-06-15,2,single,3.42
+4qX18Am6dJZg0ovgddL7w6,Hardcore High,2,48,FALSE,Juju,56,596698,german hip hop,7FUJDqWr0PvHJyIJeCsswA,Bling Bling,2019-06-14,12,album,3.07
+4vrsodmVqmZ0OvK6ZJTj2r,Table Top,1,37,FALSE,Daniel Lanois,47,79354,N/A,1U0oIiRwopraqJzYVDDYGv,Table Top (From the Music of Red Dead Redemption 2),2019-06-14,1,single,4.09
+1dCeTKR5OsVP4uayEYFwuR,Lit (feat. A$AP Ferg),12,31,TRUE,Octavian,47,254587,grime"," uk grime"," afroswing,0EmCH3tGiC9pjgIhxsqg4e,Endorphins,2019-06-13,12,album,3.1
+2Lumsra3kuU61wXkEKzKaK,Disco,1,77,FALSE,Surf Curse,68,1744994,indie,46LE2xR4e92aVvo1QlUiS3,Disco,2019-06-12,1,single,2.54
+0DiDStADDVh3SvAsoJAFMk,Only Human,3,72,FALSE,Jonas Brothers,75,7761454,N/A,1Uf67JAtkVWfdydzFFqNF2,Happiness Begins,2019-06-07,14,album,3.05
+22vgEDb5hykfaTwLuskFGD,Sucker,1,79,FALSE,Jonas Brothers,75,7761454,N/A,1Uf67JAtkVWfdydzFFqNF2,Happiness Begins,2019-06-07,14,album,3.01
+2toVe5hfuIi97ytDPDbQFt,Taste (feat. Offset),13,72,TRUE,Tyga,78,7315854,N/A,6hHIX3lfGKnZ2ji41YZMVV,Legendary,2019-06-07,14,album,3.82
+1vYh9x8UmFTLbXiizk9Qc5,I Believe,4,60,FALSE,Jonas Brothers,75,7761454,N/A,1Uf67JAtkVWfdydzFFqNF2,Happiness Begins,2019-06-07,14,album,3.62
+6uFn47ACjqYkc0jADwEdj1,Pop Out (feat. Lil Tjay),5,73,TRUE,Polo G,76,13052901,N/A,26ztFK3E69j5THJQdyxC5w,Die A Legend,2019-06-07,14,album,2.77
+2x0RZdkZcD8QRI53XT4GI5,SOS (feat. Aloe Blacc),3,68,FALSE,Avicii,79,23434221,edm,6Ad1E9vl75ZB3Ir87zwXIJ,TIM,2019-06-06,12,album,2.62
+4tc97Wa8SP5f9gaaOar8Kq,Mother's Daughter,1,62,TRUE,Miley Cyrus,81,26564677,country pop"," rock"," hip hop"," experimental,45wbw92Z6V8G8iPKFzSEPN,SHE IS COMING,2019-05-31,7,album,3.65
+6UVZo6UKUZC1J2KPP3IIwQ,yes & no,1,51,TRUE,XYLØ,43,364003,N/A,7oq0WKmeG97JxVBn3ggwp4,yes & no,2019-05-31,6,single,2.98
+2vWBUC9djv6BtiGlmKiQaH,YKWIM?,3,77,FALSE,Yot Club,61,686397,bedroom pop,60jUlxAOAcsiQUEW0XLroT,Bipolar,2019-05-31,6,single,3.54
+5XZw1AA2w7Y5WZI9YQrMhi,Good Omens Opening Title,1,0,FALSE,David Arnold,50,42445,soundtrack,7oDE1GRatrvFpNfeppRdOt,Good Omens (Original Television Soundtrack),2019-05-31,62,album,2.19
+7HvFEJxUMSKnfcZVJcRtur,Brianna and Roger Theme,2,33,FALSE,Bear McCreary,59,241463,celtic"," soundtrack,5txUaOE0Skafk1JBkyzc7V,Outlander: Season 4 (Original Television Soundtrack),2019-05-31,21,album,3.41
+0uZd8cKaTyNogTREourFY5,Cattitude (feat. RuPaul),4,0,TRUE,Miley Cyrus,81,26564677,country pop"," rock"," hip hop"," experimental,7M4YAXOOg1XbWx03jg7t62,SHE IS COMING,2019-05-31,6,single,3.16
+3VyjsVV24RmBIbWJAeUJNu,No Idea,1,0,FALSE,Don Toliver,85,7473754,N/A,1jAxVdQ2FFtbHu6kLNM0au,No Idea,2019-05-29,1,single,2.57
+6gTbAJOvivFXwkOEhSIOtS,Sarcoma,1,0,FALSE,Killstation,52,575509,emo rap"," trap metal"," cloud rap"," horrorcore,6vEqNDFYyv3rakykPzpYwu,The Two of Us Are Dying,2019-05-29,22,album,2.23
+0VpEX8ib3wE7u8NOw4szU6,Eyes Off You,3,67,FALSE,PRETTYMUCH,54,1261169,N/A,2eiprRNqzj5s3IPLvKsF6z,Phases - EP,2019-05-24,6,single,3.4
+1K3VVOhHLQ9WQGTeYVroYj,Under the Bridge,1,0,FALSE,Project North,23,1914,uk grime,1zyFbSzCtu6nIwy8F1fgDq,Under the Bridge,2019-05-24,1,single,4.12
+1aDklx1GaBqHFowCzz63wU,The Night King,13,54,FALSE,Ramin Djawadi,65,718358,soundtrack,3AOeatEAPjy1CKtdkaXaDq,Game Of Thrones: Season 8 (Music from the HBO Series),2019-05-19,32,album,8.84
+0mjAU3yKR1QnXnHtjGJqTM,Rescue Me,1,63,FALSE,OneRepublic,81,18703625,soft pop,57BhVBJbVPfIbwLANO5fSe,Rescue Me,2019-05-17,1,single,2.64
+7qEHsqek33rTcFNT9PFqLf,Someone You Loved,4,86,FALSE,Lewis Capaldi,79,14039018,soft pop,5658aM19fA3JVwTK6eQX70,Divinely Uninspired To A Hellish Extent,2019-05-17,12,album,3.03
+4Of7rzpRpV1mWRbhp5rAqG,Bruises,2,78,FALSE,Lewis Capaldi,79,14043382,soft pop,5658aM19fA3JVwTK6eQX70,Divinely Uninspired To A Hellish Extent,2019-05-17,12,album,3.67
+0fv2KH6hac06J86hBUTcSf,NEW MAGIC WAND,6,77,TRUE,Tyler"," The Creator,86,24440038,N/A,5zi7WsKlIiUXv09tbGLKsE,IGOR,2019-05-17,12,album,3.25
+340UVheS8z3ncW9TTUhAbc,Nightmare,1,2,TRUE,Halsey,80,22396044,N/A,4KaiavWFhR7j9tY1f7V6UL,Nightmare,2019-05-17,1,single,3.86
+12OLyHDxt6dqlAybSPFBK3,Forever,6,71,FALSE,Lewis Capaldi,79,14039018,soft pop,5658aM19fA3JVwTK6eQX70,Divinely Uninspired To A Hellish Extent,2019-05-17,12,album,3.51
+0pEkK8MqbmGSX7fT8WLMbR,Grace,1,67,FALSE,Lewis Capaldi,79,14043382,soft pop,5658aM19fA3JVwTK6eQX70,Divinely Uninspired To A Hellish Extent,2019-05-17,12,album,3.09
+60iSKGrGazRzICtMjADNSM,Hold Me While You Wait,3,76,FALSE,Lewis Capaldi,79,14039018,soft pop,5658aM19fA3JVwTK6eQX70,Divinely Uninspired To A Hellish Extent,2019-05-17,12,album,3.42
+7EAMXbLcL0qXmciM5SwMh2,Heart To Heart,8,82,FALSE,Mac DeMarco,79,7996784,indie"
+"1nSfvLVhsozMHS7rCF1BTi","Rose Colored Lenses","3","57","FALSE","Miley Cyrus","81","26564677","country pop, rock, hip hop, experimental","5DvJgsMLbaR1HmAI6VhfcQ","Endless Summer Vacation","2023-08-18","14","album","3.72"
+"7ECKgwt5Wa9a5WLvFJrW2q","Come On Home","1","21","FALSE","The Sound Mind Network","6","46","N/A","1yuv4AKRDzpfm7u8reaJTw","Come On Home","2025-05-16","1","single","3.75"
+"74KTHPMotSSPL2pgSy1KwZ","Save Me","1","41","FALSE","Happening Now","23","175","N/A","2f0XGheNivGtsizi291hrE","Save Me","2025-09-26","1","single","2.96"
+"53IRnAWx13PYmoVYtemUBS","Femininomenon","1","76","TRUE","Chappell Roan","82","7299563","N/A","0EiI8ylL0FmWWpgHVTsZjZ","The Rise and Fall of a Midwest Princess","2023-09-22","14","album","3.66"
+"725QAOexNLmGZiFMN7U8pF","Dumb - Live","6","56","FALSE","Nirvana","81","23398010","grunge, rock","1To7kv722A8SpZF789MZy7","MTV Unplugged In New York","1994-11-01","14","album","2.88"
+"7yO48FWUkqsrdxrwkGcnwl","Where Them Girls At (feat. Nicki Minaj & Flo Rida)","10","60","TRUE","David Guetta","87","27141717","edm","1fAn5gw4Q5HN8Wpx2neYd2","Nothing but the Beat Ultimate","2011-08-24","30","album","3.24"
+"72s177IslLyS9N7EKBTCp0","FREAKY","1","19","TRUE","Daveedtheking","5","58","N/A","5NNsNw2HRa4oxXfuV5LAqH","FREAKY","2025-04-19","1","single","2.58"
+"7LcfRTgAVTs5pQGEQgUEzN","Moves Like Jagger - Studio Recording From The Voice Performance","13","74","FALSE","Maroon 5","85","45764832","pop","7strNUlU6xZqlVWBNUdOYv","Hands All Over","2010-06-30","13","album","3.35"
+"07QNFKsDgAeKgrcO2sGNfa","Just a Simple Monk","10","31","FALSE","Jeremy Zuckerman","44","23557","N/A","3O8AxQ0FXMQw5l7PbHcn8F","Avatar: The Last Airbender - Book 1: Water (Music From The Animated Series)","2023-11-17","35","album","1.13"
+"2GLWhy9iiO1wrLUF5l4FtJ","Slimed In","7","57","TRUE","Future","88","22675640","rap","4iqbFIdGOTzXeDtt9owjQn","WE DON'T TRUST YOU","2024-03-22","17","album","3.24"
+"1Gg5pL7dEApcVrWbannKOt","Good To You","1","29","FALSE","Lila Wilde","13","687","N/A","6HpQVJ1b1ArDMVBqQklM8Y","Good To You","2025-08-07","1","single","3.17"
+"5qpXZ45eZA3VX3qe76tmqh","The Hills X Creepin X The Color Violet","1","65","TRUE","LonelyEve","53","27085","N/A","0mXeV8wmRQpT7OxUw71WX6","The Hills X Creepin X The Color Violet","2022-12-31","1","single","3.29"
+"1cktZnxiONH0hR6Q3DKy8h","Drink In My Hand","2","73","FALSE","Eric Church","71","4140524","country, acoustic country","5dtw6CoMhbrSj01YUvdQOF","Chief","2011-01-01","11","album","3.18"
+"0j2T0R9dR9qdJYsB7ciXhf","Stronger","3","81","TRUE","Kanye West","89","31038851","rap","4SZko61aMnmgvNhfhgTuD3","Graduation","2007-09-11","14","album","5.19"
+"4WhHNXBgRglnkjy7TMzgdh","Hachikō","1","59","FALSE","Fujii Kaze","74","4571036","j-pop","0qxIGHOXFdqiJEOqbUv5DR","Hachikō","2025-06-13","1","single","4.5"
+"23bG6t34ZEoaYD3ojBuYsy","Shepard's Flute","8","0","FALSE","Bill Brown","41","9786","medieval","0BawDoh2xMnec8hK6XkQ2L","Lineage 2 - Chaotic Chronicle","2011-08-18","24","album","2.06"
+" rock,3FFGbUutKWN1c4f0CJR4Uh,Nevermind (Super Deluxe Edition),1991-09-26,70,album,3.73
+1e7ns2XRPahqlObuBvZGr2,Dive - Smart Sessions,7,20,FALSE,Nirvana,81,23391272,grunge"," rock,3FFGbUutKWN1c4f0CJR4Uh,Nevermind (Super Deluxe Edition),1991-09-26,70,album,3.9
+5lArp3zos7auTqh8GfSKuR,Drain You,8,36,FALSE,Nirvana,81,23391272,grunge"," rock,3FFGbUutKWN1c4f0CJR4Uh,Nevermind (Super Deluxe Edition),1991-09-26,70,album,3.73
+6RvBZAJ01rJO90eLq8m3NT,Drain You - Devonshire Mix,7,30,FALSE,Nirvana,81,23384088,grunge"," rock,3FFGbUutKWN1c4f0CJR4Uh,Nevermind (Super Deluxe Edition),1991-09-26,70,album,3.68
+2HAcdyY4lM2wv3lTUzry4D,Drain You - Live At Paramount Theatre B-Side,20,22,FALSE,Nirvana,81,23384088,grunge"," rock,3FFGbUutKWN1c4f0CJR4Uh,Nevermind (Super Deluxe Edition),1991-09-26,70,album,3.87
+3dVewylSwgIhGIdS8HQpKV,Drain You - Live At The BBC,17,22,FALSE,Nirvana,81,23384088,grunge"," rock,3FFGbUutKWN1c4f0CJR4Uh,Nevermind (Super Deluxe Edition),1991-09-26,70,album,4.04
+0ET9cRgBd21Szftkv95aTK,Drain You - Live At The Paramount/1991,3,28,FALSE,Nirvana,81,23384088,grunge"," rock,3FFGbUutKWN1c4f0CJR4Uh,Nevermind (Super Deluxe Edition),1991-09-26,70,album,3.77
+42KRaNuYtMI8d0WSc48Cdp,Endless"," Nameless,13,29,FALSE,Nirvana,81,23384088,grunge"," rock,3FFGbUutKWN1c4f0CJR4Uh,Nevermind (Super Deluxe Edition),1991-09-26,70,album,6.71
+6wyMr8WhICKyb80uAGfH2j,Endless"," Nameless - Live At The Paramount,19,21,FALSE,Nirvana,81,23384088,grunge"," rock,3FFGbUutKWN1c4f0CJR4Uh,Nevermind (Super Deluxe Edition),1991-09-26,70,album,6.41
+01S0r3t4tcHPkNyll414mT,Even In His Youth - B-Side,14,30,FALSE,Nirvana,81,23384088,grunge"," rock,3FFGbUutKWN1c4f0CJR4Uh,Nevermind (Super Deluxe Edition),1991-09-26,70,album,3.03
+0gO3C9rlSBYFKxxhI6F48j,Floyd The Barber - Live At The Paramount,5,20,FALSE,Nirvana,81,23384088,grunge"," rock,3FFGbUutKWN1c4f0CJR4Uh,Nevermind (Super Deluxe Edition),1991-09-26,70,album,2.45
+2sPUMVRLMSHWdqJHzmZaLC,Lithium,5,44,FALSE,Nirvana,81,23384088,grunge"," rock,3FFGbUutKWN1c4f0CJR4Uh,Nevermind (Super Deluxe Edition),1991-09-26,70,album,4.28
+3BB5hLbsyYGg1k9G6wRyhu,Lithium - Devonshire Mix,5,28,FALSE,Nirvana,81,23384088,grunge"," rock,3FFGbUutKWN1c4f0CJR4Uh,Nevermind (Super Deluxe Edition),1991-09-26,70,album,4.3
+2Eim9dmcVdtSHQe0UV50pV,Lithium - Live At The Paramount,12,26,FALSE,Nirvana,81,23384088,grunge"
+"2tQew7pG4IhgNGplOSNIj7","Daydreamin'","7","46","FALSE","Ariana Grande","90","107389514","pop","2VSBGJ8bUuNgmOYXHIQagM","Yours Truly (Tenth Anniversary Edition)","2023-08-25","19","album","3.52"
+"4VnEmAingHeCn3Zhq0uOwF","I Been On","1","24","TRUE","Commma","8","155","N/A","08y7Du1VLrjZjb9YNCdiTe","I Been On","2025-04-30","1","single","3.13"
+"0CXVjQI9wsqaGeIARkkpYc","I Wanna Love You","4","76","TRUE","Akon","81","6002343","N/A","6kzoWb4UzvKYgbDfAwgaFq","Konvicted","2006-01-01","12","album","4.11"
+"4u26EevCNXMhlvE1xFBJwX","If I Die Young","3","67","FALSE","The Band Perry","55","1615133","country","3dASAcs9QOsmoSLhHjEhCu","The Band Perry","2010-01-01","11","album","3.71"
+"6StwwqB84sJeLr7tZDTxEX","Guy For That (Feat. Luke Combs)","8","76","FALSE","Post Malone","85","47716988","pop, hip hop, country","4BbsHmXEghoPPevQjPnHXx","F-1 Trillion","2024-08-15","18","album","2.73"
+"0jvo9CjnbR0lYUDTSNTMiu","Bejeweled","9","59","FALSE","Taylor Swift","100","145443567","country, pop, indie, folk","3lS1y25WAhcqJDATJK70Mq","Midnights (3am Edition)","2022-10-22","20","album","3.23"
+"5EGPf0nqO7vEIwsOX6Er98","Obsessed","2","81","FALSE","Mariah Carey","79","11913071","christmas","0an7K6LfvYERpVviYMUFp0","Memoirs of an imperfect Angel (International Version)","2009-09-29","21","album","4.03"
+"6sy3LkhNFjJWlaeSMNwQ62","Counting Stars","1","73","FALSE","OneRepublic","81","18700851","soft pop","2bbhW5ifCwOYM8DMkqoYBF","Native","2014-01-01","15","album","4.29"
+"76C8SZk9RpvcO1zmoswZb3","Why Them?","2","31","FALSE","Catlea","23","55684","melodic bass","2wDwjq5rYj3dtC33u8qFI8","Language Barrier","2025-03-06","10","album","3.02"
+"3r6wuvcMPjtIWlYdkpdMPM","butterflies","15","39","FALSE","GAYLE","58","668804","N/A","0BaIaHcyBXuOWeM4Aas4EW","Barbie The Album","2023-07-21","17","compilation","2.27"
+"1eKd3H94Z9DbYSMycefQ3W","One Of The Girls X The Hills - Sped Up","2","45","FALSE","Mckyyy","59","104869","N/A","6bLYwEiKsWdgjuDQ90b4zG","One Of The Girls X The Hills","2024-01-01","3","single","2.7"
+"5EioJrDfnqs6OiCTRxSGn1","Ain't No Grave","1","40","FALSE","Anna Calvi","39","132370","N/A","3T3przz4Szk0vu6RSsncmk","Ain't No Grave","2022-04-05","1","single","4"
+"2KukL7UlQ8TdvpaA7bY3ZJ","BREAK MY SOUL","1","60","FALSE","Beyoncé","84","41176723","N/A","5JgCaA43ECaGeqbPEo6WUP","BREAK MY SOUL","2022-06-21","1","single","4.63"
+"7CHzHT86zvEkeZpVPr6IgL","Seventeen","1","27","FALSE","Kate Anstey","10","34","N/A","067t3qgBnltGBK7PLrfBKF","Seventeen","2025-09-12","1","single","3.2"
+"6wHpLMmp98aHcV8L1JFrj8","Eternity","1","87","FALSE","Alex Warren","84","2885506","N/A","6FyViQsaJnS1e5if4ouzGK","You'll Be Alright, Kid","2025-07-18","21","album","3.15"
+"2rDMtmPctM67hICAZTKAjx","End of the World","3","66","FALSE","Miley Cyrus","81","26564677","country pop, rock, hip hop, experimental","7h7smPzBYx8LOLI3ncM3vQ","Something Beautiful","2025-05-30","13","album","4.17"
+"08lwoqbPtnLRzBZW92dm0l","All over me","2","52","FALSE","HAIM","65","1436277","N/A","6bpglEwFypc0rfzYDyhf6i","I quit","2025-06-20","15","album","3.37"
+"75yRQ1RE96bpNPhQvcOveR","Ms. Marvel Suite - From Ms. Marvel","1","20","FALSE","Laura Karpman","34","7557","N/A","1f6HDHbyMsSLFqomt40gmV","Ms. Marvel Suite (From Ms. Marvel)","2022-06-08","1","single","4.49"
+"0hzck1SKuiZM0x3oiAgeP3","praying to the sky","1","63","TRUE","Lil Peep","82","15684530","emo rap, cloud rap","7n4NXIQuDsb7C68oSBVF0M","LIL PEEP; PART ONE","2024-09-18","11","album","3.98"
+"2WgyOP8Z1D6GQYumCwH4Dk","Monster","3","70","TRUE","Lady Gaga","88","42256604","art pop, pop","6rePArBMb5nLWEaY9aQqL4","The Fame Monster (Deluxe Edition)","2009-11-05","23","album","4.15"
+"1n7omixiROWs5q6xpWiQuL","Satisfaction - Isak Original Extended","1","67","FALSE","Benny Benassi","63","608571","electro house","1pjsWAK5eBtJsYGtYDiCER","Hypnotica (Benny Benassi Presents The Biz)","2003-05-23","14","album","4.75"
+"2fTj7u4KEt7JfWQw4Qgj2J","Wait For You","1","42","FALSE","MEDZ","37","6199","melodic bass, future bass","5iaL4PoBJLEe9khqnoMgOu","Wait For You","2025-10-03","1","single","3.45"
+"21rJwhXiZqOoOREguIIZrV","Ghost","1","24","FALSE","Gulmee","36","992","hypertechno","6Eq4GOU0zctTXC5ikQo8f8","Ghost","2024-09-06","1","single","2.13"
+"4YQgOgIElFtEvwJQ9ArWL7","FΛSHION","1","1","TRUE","Britney Manson","57","461945","N/A","7umRaDZ9FqTaL2EWZvGMEX","FΛSHION","2023-08-11","1","single","2.44"
