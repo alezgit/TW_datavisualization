@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Classroom Analytics: The Dashboard</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+</head>
+<body>
+
+    <header>
+        <div class="header-content">
+            <h1>The Student Matrix</h1>
+            <p>Live Data Visualization Experiment</p>
+        </div>
+    </header>
+
+    <div class="dashboard-container">
+        
+        <div class="section-header">
+            <div class="icon-box">1</div>
+            <h2>The Class DNA <span class="subtitle">(Demographics & Internal Habits)</span></h2>
+        </div>
+        
+        <div class="chart-grid">
+            <div class="card">
+                <h3>✈️ Travel Personalities</h3>
+                <canvas id="chartTravelDoughnut"></canvas>
+            </div>
+            
+            <div class="card">
+                <h3>👥 Ideal Social Setting</h3>
+                <canvas id="chartCrowdPolar"></canvas>
+            </div>
+
+            <div class="card">
+                <h3>🎒 Adventure Risk by Travel Style</h3>
+                <p class="chart-desc">Do Backpackers actually take more risks?</p>
+                <canvas id="chartRiskBar"></canvas>
+            </div>
+
+            <div class="card">
+                <h3>🚶‍♂️ Commute vs. Sport Habits</h3>
+                <p class="chart-desc">Does walking to uni replace the gym?</p>
+                <canvas id="chartCommuteSport"></canvas>
+            </div>
+        </div>
+
+
+        <div class="section-header">
+            <div class="icon-box">2</div>
+            <h2>Hidden Connections <span class="subtitle">(Cross-Category Correlations)</span></h2>
+        </div>
+
+        <div class="chart-grid-large">
+            <div class="card">
+                <h3>🕷️ The "Early Bird" vs "Night Owl" Profile</h3>
+                <p class="chart-desc">Comparing average attributes across two distinct groups.</p>
+                <div class="canvas-container-radar">
+                    <canvas id="chartRadarProfile"></canvas>
+                </div>
+            </div>
+
+            <div class="card wide">
+                <h3>🫧 The "Life Balance" Matrix</h3>
+                <p class="chart-desc">
+                    <strong>X:</strong> Social Battery | 
+                    <strong>Y:</strong> Screen Time | 
+                    <strong>Size:</strong> Sleep Hours | 
+                    <strong>Color:</strong> Chronotype
+                </p>
+                <canvas id="chartBubbleComplex"></canvas>
+            </div>
+        </div>
+
+        <div class="chart-grid">
+            <div class="card">
+                <h3>🌍 Does Travel reduce Tech usage?</h3>
+                <p class="chart-desc">Countries Visited vs. Screen Time</p>
+                <canvas id="chartScatterTravelTech"></canvas>
+            </div>
+
+            <div class="card">
+                <h3>⚡ Energy Flow: Social vs Physical</h3>
+                <p class="chart-desc">Social Battery vs Avg Sport Hours</p>
+                <canvas id="chartBarSocialSport"></canvas>
+            </div>
+        </div>
+
+    </div>
+
+    <footer>
+        <p>Built with D3.js (Data Parsing) & Chart.js (Rendering)</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>

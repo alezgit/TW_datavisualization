@@ -1,0 +1,144 @@
+:root {
+    --bg-dark: #283739;
+    --card-bg: #2C5D63;
+    --accent: #A9C52F; /* Lime Green */
+    --text: #F5F5F5;
+    --text-dim: #cfcfcf;
+}
+
+body {
+    background-color: var(--bg-dark);
+    color: var(--text);
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: rgba(0,0,0,0.3);
+    padding: 25px;
+    text-align: center;
+    border-bottom: 4px solid var(--accent);
+}
+
+header h1 {
+    margin: 0;
+    color: var(--text);
+    font-weight: 700;
+    letter-spacing: 1px;
+}
+
+header p { color: var(--accent); margin-top: 5px; }
+
+.dashboard-container {
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 30px;
+}
+
+/* Section Headers */
+.section-header {
+    display: flex;
+    align-items: center;
+    margin-top: 50px;
+    margin-bottom: 25px;
+    border-bottom: 1px solid rgba(255,255,255,0.1);
+    padding-bottom: 10px;
+}
+
+.icon-box {
+    background-color: var(--accent);
+    color: var(--bg-dark);
+    font-weight: bold;
+    width: 35px;
+    height: 35px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    margin-right: 15px;
+    font-size: 1.2rem;
+}
+
+.section-header h2 {
+    margin: 0;
+    font-size: 1.5rem;
+    color: var(--text);
+}
+
+.subtitle {
+    font-weight: 300;
+    font-size: 1rem;
+    color: var(--text-dim);
+    margin-left: 10px;
+}
+
+/* Grids */
+.chart-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    gap: 25px;
+}
+
+.chart-grid-large {
+    display: grid;
+    grid-template-columns: 1fr 1fr; /* 2 Columns for Radar and Bubble */
+    gap: 25px;
+    margin-bottom: 25px;
+}
+
+/* Cards */
+.card {
+    background-color: var(--card-bg);
+    border-radius: 15px;
+    padding: 20px;
+    box-shadow: 0 8px 16px rgba(0,0,0,0.2);
+    border: 1px solid rgba(255,255,255,0.05);
+    transition: transform 0.2s;
+}
+
+.card:hover { transform: translateY(-3px); }
+
+.card h3 {
+    margin-top: 0;
+    color: var(--accent);
+    font-size: 1.1rem;
+    margin-bottom: 5px;
+}
+
+.chart-desc {
+    font-size: 0.85rem;
+    color: var(--text-dim);
+    margin-top: 0;
+    margin-bottom: 15px;
+    font-style: italic;
+}
+
+/* Canvas Sizing */
+.card canvas {
+    max-height: 300px;
+    width: 100%;
+}
+
+.card.wide { grid-column: span 1; } 
+
+/* Special container for Radar to keep it square */
+.canvas-container-radar {
+    position: relative;
+    height: 350px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+footer {
+    text-align: center;
+    padding: 40px;
+    color: var(--text-dim);
+    font-size: 0.8rem;
+    opacity: 0.6;
+}
+
+@media (max-width: 900px) {
+    .chart-grid-large { grid-template-columns: 1fr; }
+}
