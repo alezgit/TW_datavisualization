@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Hourly Temp - Chart.js Demo</title>
+    <style>
+      body {
+        font-family: system-ui, Arial;
+        padding: 20px;
+        background: #0f1724;
+        color: #e6eef8;
+      }
+      #container {
+        max-width: 900px;
+        margin: 0 auto;
+      }
+      canvas {
+        background: #0b1220;
+        border-radius: 8px;
+      }
+      .loading {
+        margin: 12px 0;
+        color: #9fb0d6;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="container">
+      <h2>Hourly Temperature (next 24 hours) — Porto</h2>
+      <div class="loading" id="status">Loading…</div>
+      <canvas id="weatherChart" width="800" height="400"></canvas>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script>
+      const statusEl = document.getElementById("status");
+      const ctx = document.getElementById("weatherChart").getContext("2d");
+      let weatherChart = null;
+
+      async function fetchHourlyTemp(lat = 41.1579, lon = -8.6291) {
+        // Open-Meteo: no key required
+        const url = `https://api.open-meteo.com/v1/forecast?latitude=${lat}&longitude=${lon}&hourly=temperature_2m&timezone=auto`;
+        const res = await fetch(url);
+        if (!res.ok) throw new Error("Weather fetch failed");
+        return res.json();
+      }
+
+      function extractNext24(json) {
+        const times = json.hourly.time; // ISO strings
+        const temps = json.hourly.temperature_2m;
+        // Use first 24 entries from the current time
+        const sliceLen = Math.min(24, times.length);
+        const labels = times.slice(0, sliceLen).map((t) =>
+          new Date(t).toLocaleTimeString([], {
+            hour: "2-digit",
+            minute: "2-digit",
+          })
+        );
+        const values = temps.slice(0, sliceLen);
+        return { labels, values };
+      }
+
+      function createLineChart(labels, values) {
+        if (weatherChart) weatherChart.destroy();
+
+        // simple gradient for demo
+        const gradient = ctx.createLinearGradient(0, 0, 0, 400);
+        gradient.addColorStop(0, "rgba(255,200,87,0.9)");
+        gradient.addColorStop(1, "rgba(255,200,87,0.2)");
+
+        weatherChart = new Chart(ctx, {
+          type: "line",
+          data: {
+            labels,
+            datasets: [
+              {
+                label: "Temperature (°C)",
+                data: values,
+                fill: true,
+                backgroundColor: gradient,
+                borderColor: "rgba(255,200,87,1)",
+                tension: 0.3,
+                pointRadius: 4,
+              },
+            ],
+          },
+          options: {
+            responsive: true,
+            plugins: {
+              tooltip: {
+                callbacks: {
+                  label: (ctx) => ` ${ctx.parsed.y} °C`,
+                },
+              },
+              legend: { display: false },
+            },
+            interaction: { mode: "nearest", intersect: false },
+            onClick(evt) {
+              const pts = weatherChart.getElementsAtEventForMode(
+                evt,
+                "nearest",
+                { intersect: true },
+                true
+              );
+              if (pts.length) {
+                const idx = pts[0].index;
+                const t = weatherChart.data.labels[idx];
+                const v = weatherChart.data.datasets[0].data[idx];
+                alert(`${t} — ${v} °C`);
+              }
+            },
+            scales: {
+              y: { beginAtZero: false, title: { display: true, text: "°C" } },
+            },
+          },
+        });
+      }
+
+      (async function init() {
+        try {
+          statusEl.textContent = "Fetching weather…";
+          const json = await fetchHourlyTemp();
+          const { labels, values } = extractNext24(json);
+          statusEl.textContent = "Rendering chart…";
+          createLineChart(labels, values);
+          statusEl.style.display = "none";
+        } catch (err) {
+          console.error(err);
+          statusEl.textContent = "Failed to load weather data";
+        }
+      })();
+    </script>
+  </body>
+</html>

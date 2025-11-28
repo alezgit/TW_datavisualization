@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Poké Weight vs Height - Chart.js Demo</title>
+    <style>
+      body {
+        font-family: system-ui, Arial;
+        padding: 20px;
+        background: #f7f8fb;
+      }
+      #container {
+        max-width: 900px;
+        margin: 0 auto;
+      }
+      canvas {
+        background: white;
+        border-radius: 8px;
+        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+      }
+      .loading {
+        margin: 12px 0;
+        color: #666;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="container">
+      <h2>Pokémon Weight vs Height (first 10)</h2>
+      <div class="loading" id="status">Loading data…</div>
+      <canvas id="pokeChart" width="800" height="400"></canvas>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script>
+      const statusEl = document.getElementById("status");
+      const ctx = document.getElementById("pokeChart").getContext("2d");
+      let pokeChart = null;
+
+      async function fetchPokemonData(limit = 10) {
+        try {
+          statusEl.textContent = "Fetching list…";
+          const listRes = await fetch(
+            `https://pokeapi.co/api/v2/pokemon?limit=${limit}`
+          );
+          if (!listRes.ok) throw new Error("Failed to fetch list");
+          const listJson = await listRes.json();
+          const entries = listJson.results;
+
+          statusEl.textContent = `Fetching ${entries.length} details…`;
+          // Fetch details in parallel
+          const detailsPromises = entries.map((e) =>
+            fetch(e.url).then((r) => r.json())
+          );
+          const details = await Promise.all(detailsPromises);
+
+          // Map to objects with name, weight and height
+          return details.map((d) => ({
+            name: capitalize(d.name),
+            weight: d.weight, // decagrams for PokeAPI
+            height: d.height, // decimeters
+          }));
+        } catch (err) {
+          console.error(err);
+          statusEl.textContent = "Error loading Pokémon data";
+          throw err;
+        }
+      }
+
+      function capitalize(s) {
+        return s.charAt(0).toUpperCase() + s.slice(1);
+      }
+
+      function createChart({ labels, weights, heights }) {
+        if (pokeChart) pokeChart.destroy();
+
+        pokeChart = new Chart(ctx, {
+          type: "bar",
+          data: {
+            labels,
+            datasets: [
+              {
+                label: "Weight (hg)",
+                data: weights,
+                backgroundColor: "rgba(54,162,235,0.6)",
+                borderColor: "rgba(54,162,235,1)",
+                borderWidth: 1,
+              },
+              {
+                label: "Height (dm)",
+                data: heights,
+                backgroundColor: "rgba(255,159,64,0.6)",
+                borderColor: "rgba(255,159,64,1)",
+                borderWidth: 1,
+              },
+            ],
+          },
+          options: {
+            responsive: true,
+            plugins: {
+              tooltip: {
+                callbacks: {
+                  label: function (context) {
+                    const datasetLabel = context.dataset.label || "";
+                    const value = context.parsed.y;
+                    return `${datasetLabel}: ${value}`;
+                  },
+                },
+              },
+              legend: { position: "top" },
+            },
+            interaction: {
+              mode: "nearest",
+              intersect: true,
+            },
+            onClick(evt) {
+              const points = pokeChart.getElementsAtEventForMode(
+                evt,
+                "nearest",
+                { intersect: true },
+                true
+              );
+              if (points.length) {
+                const firstPoint = points[0];
+                const label = pokeChart.data.labels[firstPoint.index];
+                const datasetLabel =
+                  pokeChart.data.datasets[firstPoint.datasetIndex].label;
+                const value =
+                  pokeChart.data.datasets[firstPoint.datasetIndex].data[
+                    firstPoint.index
+                  ];
+                console.log("Clicked:", { label, datasetLabel, value });
+                alert(`${label} — ${datasetLabel}: ${value}`);
+              }
+            },
+            scales: {
+              y: { beginAtZero: true, title: { display: true, text: "Value" } },
+              x: {
+                beginAtZero: true,
+                title: { display: true, text: "Names of Characters" },
+              },
+            },
+          },
+        });
+      }
+
+      // Boot
+      (async function () {
+        try {
+          const data = await fetchPokemonData(10);
+          statusEl.textContent = "Rendering chart…";
+          const labels = data.map((d) => d.name);
+          const weights = data.map((d) => d.weight);
+          const heights = data.map((d) => d.height);
+          createChart({ labels, weights, heights });
+          statusEl.style.display = "none";
+        } catch (err) {
+          statusEl.textContent = "Failed to initialize demo.";
+        }
+      })();
+    </script>
+  </body>
+</html>

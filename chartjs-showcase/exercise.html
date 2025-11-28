@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+
+    <style>
+      #container {
+        max-width: 900px;
+        margin: 0 auto;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="container">
+      <p id="status">Loading...</p>
+      <canvas id="moviesChart" width="800" height="400"></canvas>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script>
+      const statusEl = document.getElementById("status");
+      const ctx = document.getElementById("moviesChart").getContext("2d");
+      let canvasChart = null;
+
+      const createChart = ({ labels, ratings }) => {
+        if (canvasChart) canvasChart.destroy();
+
+        const gradient = ctx.createLinearGradient(0, 0, 0, 400);
+        gradient.addColorStop(0, "rgba(255,200,87,0.9)");
+        gradient.addColorStop(1, "rgba(255,200,87,0.2)");
+
+        canvasChart = new Chart(ctx, {
+          type: "line",
+          data: {
+            labels,
+            datasets: [
+              {
+                label: "Movies",
+                data: ratings,
+                barThickness: 20,
+                hoverRadius: 10,
+                // fill: true,
+                backgroundColor: gradient,
+                // borderColor: "rgba(255,200,87,1)",
+                // tension: 0.3,
+                pointRadius: 4,
+                borderWidth: 1,
+              },
+            ],
+          },
+          options: {
+            // interaction: { mode: "point", intersect: false },
+            responsive: true,
+            // indexAxis: "y",
+            plugins: {
+              legend: {
+                position: "bottom",
+              },
+              tooltip: {
+                callbacks: {
+                  label: (ctx) => {
+                    console.log(ctx, "<><>");
+                    return `Rating of ${ctx.formattedValue}/10`;
+                  },
+                },
+              },
+            },
+            scales: {
+              y: {
+                beginAtZero: true,
+                title: { display: true, text: "Ratings" },
+              },
+              x: {
+                beginAtZero: true,
+                title: { display: false, text: "Movies" },
+              },
+            },
+          },
+        });
+      };
+
+      const fetchMovies = async () => {
+        try {
+          const data = await fetch("/data/movies.json");
+          const res = await data.json();
+
+          const labels = res.movies.map((m) => m.title);
+          const ratings = res.movies.map((m) => m.rating);
+
+          return { labels, ratings };
+        } catch (err) {
+          return err;
+        }
+
+        return { labels, ratings };
+      };
+
+      (async () => {
+        statusEl.textContent = "Fetching chart data...";
+        try {
+          const { labels, ratings } = await fetchMovies();
+          statusEl.textContent = "Rendering chart data...";
+          console.log(labels, ratings);
+          createChart({ labels, ratings });
+          statusEl.style.display = "none";
+        } catch (error) {
+          statusEl.textContent = error;
+        }
+      })();
+    </script>
+  </body>
+</html>

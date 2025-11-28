@@ -1,0 +1,9 @@
+{
+  "movies": [
+    { "title": "Moonlight", "rating": 7.4, "year": 2016 },
+    { "title": "Parasite", "rating": 8.6, "year": 2019 },
+    { "title": "Spirited Away", "rating": 8.6, "year": 2001 },
+    { "title": "The Grand Budapest Hotel", "rating": 8.1, "year": 2014 },
+    { "title": "Arrival", "rating": 7.9, "year": 2016 }
+  ]
+}
