@@ -1,0 +1,29 @@
+Task
+
+Convert this raw data into a line chart showing website visits over a week:
+
+const visits = [
+  { day: "Monday", count: 120 },
+  { day: "Tuesday", count: 200 },
+  { day: "Wednesday", count: 150 },
+  { day: "Thursday", count: 220 },
+  { day: "Friday", count: 300 }
+];
+
+Instructions
+
+Extract labels (day) and values (count) into arrays
+
+Create a <canvas id="visitsChart"></canvas>
+
+Render a line chart using Chart.js
+
+Add options to turn off the chart legend
+
+Success criteria
+
+Line chart renders raw data
+
+Legend is removed
+
+Data points show correctly
