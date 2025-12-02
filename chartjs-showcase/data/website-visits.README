@@ -1,0 +1,24 @@
+Task
+
+Convert this raw data into a line chart showing website visits over a week:
+
+
+Instructions
+
+1. Import the data from the visits.json file
+
+2. Extract labels (day) and values (count) into arrays
+
+3. Create a <canvas id="visitsChart"></canvas>
+
+4. Render a line chart using Chart.js
+
+5. Add options to turn off the chart legend
+
+Success criteria
+
+1. Line chart renders raw data
+
+2. Legend is removed
+
+3. Data points show correctly
