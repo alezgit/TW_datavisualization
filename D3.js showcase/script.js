@@ -90,8 +90,8 @@ d3.csv("spotify_sampled.csv").then(data => {
         ])
         .range([4, 25]);
     
-    // COLOR SCALE: Artist Followers (log scale for better distribution)
-    const colorScale = d3.scaleLog()
+    // COLOR SCALE
+    const colorScale = d3.scaleSqrt()
         .domain([
             d3.min(data, d => d.artist_followers),
             d3.max(data, d => d.artist_followers)
